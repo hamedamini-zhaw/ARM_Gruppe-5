@@ -4,8 +4,8 @@ import glob
 import re
 
 # --- 1. KONFIGURATION ---
-SOURCE_FOLDER = '/Users/timponiewas/gwr' 
-OUTPUT_FILE = '/Users/timponiewas/gwr/ARM_Master_Table.csv'
+SOURCE_FOLDER = '/workspaces/ARM_Gruppe-5/01 - Data Collection/exporte' 
+OUTPUT_FILE = '/workspaces/ARM_Gruppe-5/01 - Data Collection/ARM_Master_Table.csv'
 
 LAYER_CONFIGS = {
     "10060": {"pivot": ["haushaltsgrosse"], "value": ["wert"]},

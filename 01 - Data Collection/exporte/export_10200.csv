@@ -1,0 +1,3332 @@
+jahr,bfs_nummer,gemeinde,falle,flache_in_m2,quadratmeterpreis_chf
+1979,2764,Biel-Benken,15,13800,224
+1979,2851,Kilchberg (BL),,,
+1980,2764,Biel-Benken,19,11600,260
+1980,2851,Kilchberg (BL),,,
+1981,2764,Biel-Benken,8,5800,259
+1981,2851,Kilchberg (BL),,,
+1982,2764,Biel-Benken,13,7200,286
+1982,2851,Kilchberg (BL),,,
+1983,2764,Biel-Benken,5,3100,308
+1983,2851,Kilchberg (BL),,,
+1984,2764,Biel-Benken,10,7100,331
+1984,2851,Kilchberg (BL),,,
+1985,2764,Biel-Benken,19,11600,301
+1985,2851,Kilchberg (BL),,,
+1986,2764,Biel-Benken,15,7800,343
+1986,2851,Kilchberg (BL),( ),( ),( )
+1987,2764,Biel-Benken,11,6100,352
+1987,2851,Kilchberg (BL),,,
+1988,2764,Biel-Benken,8,5400,437
+1988,2851,Kilchberg (BL),,,
+1989,2764,Biel-Benken,4,2500,511
+1989,2851,Kilchberg (BL),,,
+1990,2764,Biel-Benken,7,4300,666
+1990,2851,Kilchberg (BL),( ),( ),( )
+1991,2764,Biel-Benken,8,3300,629
+1991,2851,Kilchberg (BL),,,
+1992,2764,Biel-Benken,7,4900,754
+1992,2851,Kilchberg (BL),,,
+1993,2764,Biel-Benken,5,2500,739
+1993,2851,Kilchberg (BL),4,2400,195
+1994,2764,Biel-Benken,5,3100,761
+1994,2851,Kilchberg (BL),( ),( ),( )
+1995,2764,Biel-Benken,8,4100,800
+1995,2851,Kilchberg (BL),,,
+1996,2764,Biel-Benken,15,10400,649
+1996,2851,Kilchberg (BL),( ),( ),( )
+1997,2764,Biel-Benken,23,10900,701
+1997,2851,Kilchberg (BL),,,
+1998,2764,Biel-Benken,4,2600,760
+1998,2851,Kilchberg (BL),,,
+1999,2764,Biel-Benken,29,12600,687
+1999,2851,Kilchberg (BL),( ),( ),( )
+2000,2764,Biel-Benken,22,10400,672
+2000,2851,Kilchberg (BL),,,
+2001,2764,Biel-Benken,16,7600,769
+2001,2851,Kilchberg (BL),,,
+2002,2764,Biel-Benken,17,9700,855
+2002,2851,Kilchberg (BL),3,1300,223
+2003,2764,Biel-Benken,11,6500,742
+2003,2851,Kilchberg (BL),,,
+2004,2764,Biel-Benken,22,11800,823
+2004,2851,Kilchberg (BL),,,
+2005,2764,Biel-Benken,16,8500,891
+2005,2851,Kilchberg (BL),( ),( ),( )
+2006,2764,Biel-Benken,13,5200,784
+2006,2851,Kilchberg (BL),4,3400,267
+2007,2764,Biel-Benken,9,4500,666
+2007,2851,Kilchberg (BL),,,
+2008,2764,Biel-Benken,11,4600,828
+2008,2851,Kilchberg (BL),( ),( ),( )
+2009,2764,Biel-Benken,16,6200,850
+2009,2851,Kilchberg (BL),3,2200,300
+2010,2764,Biel-Benken,13,5000,976
+2010,2851,Kilchberg (BL),,,
+2011,2764,Biel-Benken,9,3500,991
+2011,2851,Kilchberg (BL),( ),( ),( )
+2012,2764,Biel-Benken,22,9700,945
+2012,2851,Kilchberg (BL),( ),( ),( )
+2013,2764,Biel-Benken,10,7500,1015
+2013,2851,Kilchberg (BL),,,
+2014,2764,Biel-Benken,12,3700,1225
+2014,2851,Kilchberg (BL),,,
+2015,2764,Biel-Benken,12,3400,1195
+2015,2851,Kilchberg (BL),,,
+2016,2764,Biel-Benken,3,1800,1458
+2016,2851,Kilchberg (BL),( ),( ),( )
+2017,2764,Biel-Benken,9,4900,1307
+2017,2851,Kilchberg (BL),( ),( ),( )
+2018,2764,Biel-Benken,3,1600,1564
+2018,2851,Kilchberg (BL),3,1500,429
+2019,2764,Biel-Benken,4,2800,1571
+2019,2851,Kilchberg (BL),,,
+2020,2764,Biel-Benken,5,2400,1521
+2020,2851,Kilchberg (BL),( ),( ),( )
+2021,2764,Biel-Benken,,,
+2021,2851,Kilchberg (BL),3,2800,480
+2022,2764,Biel-Benken,4,5400,1658
+2022,2851,Kilchberg (BL),,,
+2023,2764,Biel-Benken,( ),( ),( )
+2023,2851,Kilchberg (BL),,,
+2024,2764,Biel-Benken,( ),( ),( )
+2024,2851,Kilchberg (BL),( ),( ),( )
+1979,2762,Allschwil,32,10400,266
+1979,2763,Arlesheim,9,4700,221
+1979,2765,Binningen,13,11700,271
+1979,2766,Birsfelden,,,
+1979,2767,Bottmingen,38,28200,292
+1979,2768,Ettingen,24,21500,210
+1979,2769,Münchenstein,6,3200,201
+1979,2770,Muttenz,22,18600,250
+1979,2772,Pfeffingen,11,8800,186
+1979,2774,Schönenbuch,7,5600,185
+1979,2775,Therwil,20,13300,255
+1979,2821,Arisdorf,13,7700,130
+1979,2822,Augst,( ),( ),( )
+1979,2823,Bubendorf,15,9100,87
+1979,2824,Frenkendorf,25,15500,187
+1979,2825,Füllinsdorf,7,7200,173
+1979,2826,Giebenach,7,6100,106
+1979,2827,Hersberg,9,4000,117
+1979,2828,Lausen,17,12400,143
+1979,2829,Liestal,24,15300,189
+1979,2830,Lupsingen,( ),( ),( )
+1979,2831,Pratteln,48,19200,214
+1979,2832,Ramlinsburg,( ),( ),( )
+1979,2833,Seltisberg,8,6400,130
+1979,2841,Anwil,4,4400,54
+1979,2842,Böckten,,,
+1979,2843,Buckten,( ),( ),( )
+1979,2844,Buus,4,2800,70
+1979,2845,Diepflingen,3,1000,91
+1979,2846,Gelterkinden,19,11500,115
+1979,2847,Häfelfingen,( ),( ),( )
+1979,2848,Hemmiken,,,
+1979,2849,Itingen,( ),( ),( )
+1979,2850,Känerkinden,( ),( ),( )
+1979,2852,Läufelfingen,( ),( ),( )
+1979,2853,Maisprach,5,4500,71
+1979,2854,Nusshof,( ),( ),( )
+1979,2855,Oltingen,,,
+1979,2856,Ormalingen,22,13500,79
+1979,2858,Rothenfluh,( ),( ),( )
+1979,2859,Rümlingen,( ),( ),( )
+1979,2860,Rünenberg,( ),( ),( )
+1979,2861,Sissach,13,8000,144
+1979,2862,Tecknau,3,1000,82
+1979,2863,Tenniken,4,3300,72
+1979,2864,Thürnen,6,3400,115
+1979,2865,Wenslingen,( ),( ),( )
+1979,2866,Wintersingen,( ),( ),( )
+1979,2867,Wittinsburg,,,
+1979,2881,Arboldswil,3,3700,97
+1979,2882,Bennwil,3,2100,93
+1979,2883,Bretzwil,( ),( ),( )
+1979,2884,Diegten,25,9900,60
+1979,2885,Eptingen,4,4400,44
+1979,2886,Hölstein,19,13500,76
+1979,2887,Lampenberg,7,5600,71
+1979,2888,Langenbruck,( ),( ),( )
+1979,2889,Lauwil,( ),( ),( )
+1979,2890,Liedertswil,,,
+1979,2891,Niederdorf,7,3300,73
+1979,2893,Reigoldswil,7,4300,96
+1979,2894,Titterten,4,2600,69
+1979,2895,Waldenburg,3,3000,54
+1980,2762,Allschwil,38,27300,325
+1980,2763,Arlesheim,9,10800,308
+1980,2765,Binningen,18,16300,329
+1980,2766,Birsfelden,,,
+1980,2767,Bottmingen,56,21100,264
+1980,2768,Ettingen,25,11200,221
+1980,2769,Münchenstein,9,6300,210
+1980,2770,Muttenz,23,12900,304
+1980,2772,Pfeffingen,9,8900,201
+1980,2774,Schönenbuch,11,7300,188
+1980,2775,Therwil,16,12400,258
+1980,2821,Arisdorf,7,4600,122
+1980,2822,Augst,( ),( ),( )
+1980,2823,Bubendorf,14,10500,109
+1980,2824,Frenkendorf,23,13300,204
+1980,2825,Füllinsdorf,12,6800,219
+1980,2826,Giebenach,14,9500,117
+1980,2827,Hersberg,16,10600,116
+1980,2828,Lausen,23,12600,150
+1980,2829,Liestal,13,7300,189
+1980,2830,Lupsingen,20,12800,133
+1980,2831,Pratteln,17,10500,184
+1980,2832,Ramlinsburg,3,2800,109
+1980,2833,Seltisberg,4,3100,146
+1980,2841,Anwil,5,5500,53
+1980,2842,Böckten,3,1300,97
+1980,2843,Buckten,7,3400,69
+1980,2844,Buus,5,3300,77
+1980,2845,Diepflingen,( ),( ),( )
+1980,2846,Gelterkinden,33,20300,90
+1980,2847,Häfelfingen,( ),( ),( )
+1980,2848,Hemmiken,,,
+1980,2849,Itingen,31,20300,86
+1980,2850,Känerkinden,5,4000,77
+1980,2852,Läufelfingen,5,4400,46
+1980,2853,Maisprach,11,10500,89
+1980,2854,Nusshof,( ),( ),( )
+1980,2855,Oltingen,,,
+1980,2856,Ormalingen,10,5200,98
+1980,2858,Rothenfluh,( ),( ),( )
+1980,2859,Rümlingen,3,800,59
+1980,2860,Rünenberg,( ),( ),( )
+1980,2861,Sissach,15,9800,131
+1980,2862,Tecknau,3,2200,86
+1980,2863,Tenniken,14,8300,76
+1980,2864,Thürnen,9,6500,127
+1980,2865,Wenslingen,( ),( ),( )
+1980,2866,Wintersingen,( ),( ),( )
+1980,2867,Wittinsburg,( ),( ),( )
+1980,2881,Arboldswil,,,
+1980,2882,Bennwil,( ),( ),( )
+1980,2883,Bretzwil,,,
+1980,2884,Diegten,6,5500,77
+1980,2885,Eptingen,( ),( ),( )
+1980,2886,Hölstein,15,11100,107
+1980,2887,Lampenberg,( ),( ),( )
+1980,2888,Langenbruck,,,
+1980,2889,Lauwil,3,2200,81
+1980,2890,Liedertswil,,,
+1980,2891,Niederdorf,13,9300,79
+1980,2893,Reigoldswil,7,4000,97
+1980,2894,Titterten,( ),( ),( )
+1980,2895,Waldenburg,( ),( ),( )
+1981,2762,Allschwil,31,13300,296
+1981,2763,Arlesheim,11,6400,353
+1981,2765,Binningen,21,17100,380
+1981,2766,Birsfelden,( ),( ),( )
+1981,2767,Bottmingen,15,11200,350
+1981,2768,Ettingen,7,4600,252
+1981,2769,Münchenstein,21,17700,226
+1981,2770,Muttenz,7,4200,302
+1981,2772,Pfeffingen,10,6700,217
+1981,2774,Schönenbuch,17,8200,229
+1981,2775,Therwil,6,6800,182
+1981,2821,Arisdorf,5,3900,172
+1981,2822,Augst,( ),( ),( )
+1981,2823,Bubendorf,5,3600,115
+1981,2824,Frenkendorf,5,2900,239
+1981,2825,Füllinsdorf,10,5400,182
+1981,2826,Giebenach,6,3900,123
+1981,2827,Hersberg,( ),( ),( )
+1981,2828,Lausen,30,14700,148
+1981,2829,Liestal,14,10900,193
+1981,2830,Lupsingen,9,6200,137
+1981,2831,Pratteln,19,9900,197
+1981,2832,Ramlinsburg,,,
+1981,2833,Seltisberg,11,7900,129
+1981,2841,Anwil,( ),( ),( )
+1981,2842,Böckten,( ),( ),( )
+1981,2843,Buckten,6,7000,51
+1981,2844,Buus,,,
+1981,2845,Diepflingen,( ),( ),( )
+1981,2846,Gelterkinden,11,12700,115
+1981,2847,Häfelfingen,( ),( ),( )
+1981,2848,Hemmiken,( ),( ),( )
+1981,2849,Itingen,21,14600,115
+1981,2850,Känerkinden,3,2400,77
+1981,2852,Läufelfingen,( ),( ),( )
+1981,2853,Maisprach,15,9300,90
+1981,2854,Nusshof,( ),( ),( )
+1981,2855,Oltingen,5,3800,72
+1981,2856,Ormalingen,7,3800,94
+1981,2858,Rothenfluh,( ),( ),( )
+1981,2859,Rümlingen,,,
+1981,2860,Rünenberg,3,2500,81
+1981,2861,Sissach,30,19400,162
+1981,2862,Tecknau,,,
+1981,2863,Tenniken,7,5500,81
+1981,2864,Thürnen,6,5300,120
+1981,2865,Wenslingen,( ),( ),( )
+1981,2866,Wintersingen,( ),( ),( )
+1981,2867,Wittinsburg,( ),( ),( )
+1981,2881,Arboldswil,( ),( ),( )
+1981,2882,Bennwil,( ),( ),( )
+1981,2883,Bretzwil,3,2300,48
+1981,2884,Diegten,11,4600,86
+1981,2885,Eptingen,( ),( ),( )
+1981,2886,Hölstein,5,3900,96
+1981,2887,Lampenberg,,,
+1981,2888,Langenbruck,,,
+1981,2889,Lauwil,,,
+1981,2890,Liedertswil,( ),( ),( )
+1981,2891,Niederdorf,10,7300,79
+1981,2893,Reigoldswil,( ),( ),( )
+1981,2894,Titterten,( ),( ),( )
+1981,2895,Waldenburg,3,700,85
+1982,2762,Allschwil,10,4600,402
+1982,2763,Arlesheim,9,4000,367
+1982,2765,Binningen,5,3800,425
+1982,2766,Birsfelden,( ),( ),( )
+1982,2767,Bottmingen,14,12600,379
+1982,2768,Ettingen,7,3700,295
+1982,2769,Münchenstein,11,6600,254
+1982,2770,Muttenz,19,11600,284
+1982,2772,Pfeffingen,9,5900,226
+1982,2774,Schönenbuch,13,3900,249
+1982,2775,Therwil,8,3500,318
+1982,2821,Arisdorf,3,2900,168
+1982,2822,Augst,,,
+1982,2823,Bubendorf,9,5800,120
+1982,2824,Frenkendorf,( ),( ),( )
+1982,2825,Füllinsdorf,3,1900,138
+1982,2826,Giebenach,3,2200,147
+1982,2827,Hersberg,( ),( ),( )
+1982,2828,Lausen,17,10900,135
+1982,2829,Liestal,10,6100,205
+1982,2830,Lupsingen,4,3100,152
+1982,2831,Pratteln,16,6100,284
+1982,2832,Ramlinsburg,,,
+1982,2833,Seltisberg,7,5200,155
+1982,2841,Anwil,( ),( ),( )
+1982,2842,Böckten,9,6200,110
+1982,2843,Buckten,,,
+1982,2844,Buus,( ),( ),( )
+1982,2845,Diepflingen,,,
+1982,2846,Gelterkinden,10,8400,131
+1982,2847,Häfelfingen,( ),( ),( )
+1982,2848,Hemmiken,,,
+1982,2849,Itingen,7,3900,130
+1982,2850,Känerkinden,8,4500,101
+1982,2852,Läufelfingen,,,
+1982,2853,Maisprach,3,2800,100
+1982,2854,Nusshof,,,
+1982,2855,Oltingen,( ),( ),( )
+1982,2856,Ormalingen,6,3500,112
+1982,2858,Rothenfluh,( ),( ),( )
+1982,2859,Rümlingen,,,
+1982,2860,Rünenberg,11,8100,92
+1982,2861,Sissach,14,7900,193
+1982,2862,Tecknau,,,
+1982,2863,Tenniken,6,3500,95
+1982,2864,Thürnen,3,1900,146
+1982,2865,Wenslingen,7,5100,98
+1982,2866,Wintersingen,5,4300,107
+1982,2867,Wittinsburg,,,
+1982,2881,Arboldswil,( ),( ),( )
+1982,2882,Bennwil,( ),( ),( )
+1982,2883,Bretzwil,,,
+1982,2884,Diegten,4,1500,77
+1982,2885,Eptingen,( ),( ),( )
+1982,2886,Hölstein,7,4700,113
+1982,2887,Lampenberg,,,
+1982,2888,Langenbruck,,,
+1982,2889,Lauwil,,,
+1982,2890,Liedertswil,( ),( ),( )
+1982,2891,Niederdorf,( ),( ),( )
+1982,2893,Reigoldswil,3,3000,85
+1982,2894,Titterten,( ),( ),( )
+1982,2895,Waldenburg,,,
+1983,2762,Allschwil,10,9400,436
+1983,2763,Arlesheim,5,3700,379
+1983,2765,Binningen,9,5700,383
+1983,2766,Birsfelden,3,900,410
+1983,2767,Bottmingen,7,4000,390
+1983,2768,Ettingen,3,2500,289
+1983,2769,Münchenstein,8,7900,310
+1983,2770,Muttenz,14,8100,343
+1983,2772,Pfeffingen,23,19900,233
+1983,2774,Schönenbuch,4,2600,209
+1983,2775,Therwil,6,4200,353
+1983,2821,Arisdorf,4,3000,165
+1983,2822,Augst,,,
+1983,2823,Bubendorf,40,24800,135
+1983,2824,Frenkendorf,( ),( ),( )
+1983,2825,Füllinsdorf,( ),( ),( )
+1983,2826,Giebenach,( ),( ),( )
+1983,2827,Hersberg,( ),( ),( )
+1983,2828,Lausen,5,5400,218
+1983,2829,Liestal,6,3800,222
+1983,2830,Lupsingen,16,9600,145
+1983,2831,Pratteln,17,9600,296
+1983,2832,Ramlinsburg,,,
+1983,2833,Seltisberg,4,2000,155
+1983,2841,Anwil,3,2800,76
+1983,2842,Böckten,5,3800,155
+1983,2843,Buckten,11,4700,49
+1983,2844,Buus,( ),( ),( )
+1983,2845,Diepflingen,3,3600,110
+1983,2846,Gelterkinden,18,12600,166
+1983,2847,Häfelfingen,,,
+1983,2848,Hemmiken,( ),( ),( )
+1983,2849,Itingen,13,10200,145
+1983,2850,Känerkinden,5,1800,102
+1983,2852,Läufelfingen,3,2100,71
+1983,2853,Maisprach,5,3300,111
+1983,2854,Nusshof,( ),( ),( )
+1983,2855,Oltingen,( ),( ),( )
+1983,2856,Ormalingen,9,5200,114
+1983,2858,Rothenfluh,3,2400,80
+1983,2859,Rümlingen,,,
+1983,2860,Rünenberg,3,2400,102
+1983,2861,Sissach,8,7200,198
+1983,2862,Tecknau,4,2900,100
+1983,2863,Tenniken,3,1900,106
+1983,2864,Thürnen,,,
+1983,2865,Wenslingen,3,2300,75
+1983,2866,Wintersingen,( ),( ),( )
+1983,2867,Wittinsburg,,,
+1983,2881,Arboldswil,( ),( ),( )
+1983,2882,Bennwil,( ),( ),( )
+1983,2883,Bretzwil,3,2700,71
+1983,2884,Diegten,7,4500,85
+1983,2885,Eptingen,3,1800,41
+1983,2886,Hölstein,3,2000,109
+1983,2887,Lampenberg,,,
+1983,2888,Langenbruck,7,5900,79
+1983,2889,Lauwil,,,
+1983,2890,Liedertswil,( ),( ),( )
+1983,2891,Niederdorf,,,
+1983,2893,Reigoldswil,10,7200,72
+1983,2894,Titterten,( ),( ),( )
+1983,2895,Waldenburg,,,
+1984,2762,Allschwil,12,10400,360
+1984,2763,Arlesheim,5,2500,275
+1984,2765,Binningen,15,10400,402
+1984,2766,Birsfelden,( ),( ),( )
+1984,2767,Bottmingen,9,9300,326
+1984,2768,Ettingen,11,5600,311
+1984,2769,Münchenstein,28,15300,278
+1984,2770,Muttenz,69,24800,238
+1984,2772,Pfeffingen,11,7500,266
+1984,2774,Schönenbuch,( ),( ),( )
+1984,2775,Therwil,12,11200,349
+1984,2821,Arisdorf,( ),( ),( )
+1984,2822,Augst,( ),( ),( )
+1984,2823,Bubendorf,22,13700,140
+1984,2824,Frenkendorf,7,4900,291
+1984,2825,Füllinsdorf,5,2200,267
+1984,2826,Giebenach,5,3200,171
+1984,2827,Hersberg,,,
+1984,2828,Lausen,17,11300,245
+1984,2829,Liestal,12,8100,198
+1984,2830,Lupsingen,9,6500,152
+1984,2831,Pratteln,7,4000,321
+1984,2832,Ramlinsburg,,,
+1984,2833,Seltisberg,5,3300,177
+1984,2841,Anwil,,,
+1984,2842,Böckten,3,3400,121
+1984,2843,Buckten,3,1400,84
+1984,2844,Buus,4,3300,59
+1984,2845,Diepflingen,5,2700,121
+1984,2846,Gelterkinden,10,9300,152
+1984,2847,Häfelfingen,( ),( ),( )
+1984,2848,Hemmiken,,,
+1984,2849,Itingen,23,11100,145
+1984,2850,Känerkinden,5,3800,104
+1984,2852,Läufelfingen,3,3300,75
+1984,2853,Maisprach,5,4000,113
+1984,2854,Nusshof,4,3200,110
+1984,2855,Oltingen,,,
+1984,2856,Ormalingen,10,8000,123
+1984,2858,Rothenfluh,4,2800,77
+1984,2859,Rümlingen,3,2500,101
+1984,2860,Rünenberg,5,3600,99
+1984,2861,Sissach,6,5400,150
+1984,2862,Tecknau,( ),( ),( )
+1984,2863,Tenniken,8,4000,101
+1984,2864,Thürnen,,,
+1984,2865,Wenslingen,3,2800,105
+1984,2866,Wintersingen,3,3000,59
+1984,2867,Wittinsburg,,,
+1984,2881,Arboldswil,( ),( ),( )
+1984,2882,Bennwil,( ),( ),( )
+1984,2883,Bretzwil,,,
+1984,2884,Diegten,9,5000,101
+1984,2885,Eptingen,( ),( ),( )
+1984,2886,Hölstein,5,3700,115
+1984,2887,Lampenberg,,,
+1984,2888,Langenbruck,( ),( ),( )
+1984,2889,Lauwil,,,
+1984,2890,Liedertswil,( ),( ),( )
+1984,2891,Niederdorf,( ),( ),( )
+1984,2893,Reigoldswil,6,4300,103
+1984,2894,Titterten,( ),( ),( )
+1984,2895,Waldenburg,4,2400,90
+1985,2762,Allschwil,5,3400,309
+1985,2763,Arlesheim,6,6700,332
+1985,2765,Binningen,22,23400,472
+1985,2766,Birsfelden,( ),( ),( )
+1985,2767,Bottmingen,6,3700,465
+1985,2768,Ettingen,9,5200,356
+1985,2769,Münchenstein,9,5400,307
+1985,2770,Muttenz,15,8600,394
+1985,2772,Pfeffingen,19,13700,267
+1985,2774,Schönenbuch,9,2300,185
+1985,2775,Therwil,4,4500,397
+1985,2821,Arisdorf,10,5500,151
+1985,2822,Augst,( ),( ),( )
+1985,2823,Bubendorf,54,33500,164
+1985,2824,Frenkendorf,6,7500,273
+1985,2825,Füllinsdorf,14,11200,227
+1985,2826,Giebenach,,,
+1985,2827,Hersberg,3,1700,224
+1985,2828,Lausen,18,7600,213
+1985,2829,Liestal,24,17000,251
+1985,2830,Lupsingen,8,4700,168
+1985,2831,Pratteln,15,8500,361
+1985,2832,Ramlinsburg,,,
+1985,2833,Seltisberg,4,2600,168
+1985,2841,Anwil,5,3600,99
+1985,2842,Böckten,4,2600,179
+1985,2843,Buckten,5,4100,71
+1985,2844,Buus,4,2700,71
+1985,2845,Diepflingen,,,
+1985,2846,Gelterkinden,6,6700,127
+1985,2847,Häfelfingen,,,
+1985,2848,Hemmiken,,,
+1985,2849,Itingen,9,5100,155
+1985,2850,Känerkinden,6,2500,100
+1985,2852,Läufelfingen,3,2700,92
+1985,2853,Maisprach,( ),( ),( )
+1985,2854,Nusshof,( ),( ),( )
+1985,2855,Oltingen,,,
+1985,2856,Ormalingen,6,3500,118
+1985,2858,Rothenfluh,,,
+1985,2859,Rümlingen,( ),( ),( )
+1985,2860,Rünenberg,( ),( ),( )
+1985,2861,Sissach,10,7000,220
+1985,2862,Tecknau,7,2500,92
+1985,2863,Tenniken,4,2700,135
+1985,2864,Thürnen,( ),( ),( )
+1985,2865,Wenslingen,6,4500,107
+1985,2866,Wintersingen,( ),( ),( )
+1985,2867,Wittinsburg,( ),( ),( )
+1985,2881,Arboldswil,4,3800,112
+1985,2882,Bennwil,3,4600,75
+1985,2883,Bretzwil,,,
+1985,2884,Diegten,( ),( ),( )
+1985,2885,Eptingen,5,5200,78
+1985,2886,Hölstein,5,4300,134
+1985,2887,Lampenberg,,,
+1985,2888,Langenbruck,4,1900,75
+1985,2889,Lauwil,,,
+1985,2890,Liedertswil,,,
+1985,2891,Niederdorf,5,4400,118
+1985,2893,Reigoldswil,4,3700,111
+1985,2894,Titterten,( ),( ),( )
+1985,2895,Waldenburg,( ),( ),( )
+1986,2762,Allschwil,19,8000,443
+1986,2763,Arlesheim,15,11800,433
+1986,2765,Binningen,22,15600,509
+1986,2766,Birsfelden,,,
+1986,2767,Bottmingen,5,3900,525
+1986,2768,Ettingen,9,4200,319
+1986,2769,Münchenstein,16,12000,380
+1986,2770,Muttenz,8,6000,468
+1986,2772,Pfeffingen,17,11100,265
+1986,2774,Schönenbuch,4,2500,319
+1986,2775,Therwil,6,4600,372
+1986,2821,Arisdorf,( ),( ),( )
+1986,2822,Augst,,,
+1986,2823,Bubendorf,12,10000,176
+1986,2824,Frenkendorf,5,3800,268
+1986,2825,Füllinsdorf,15,10900,315
+1986,2826,Giebenach,7,5300,208
+1986,2827,Hersberg,,,
+1986,2828,Lausen,11,7200,228
+1986,2829,Liestal,30,17600,329
+1986,2830,Lupsingen,8,6700,165
+1986,2831,Pratteln,5,2000,351
+1986,2832,Ramlinsburg,,,
+1986,2833,Seltisberg,( ),( ),( )
+1986,2841,Anwil,( ),( ),( )
+1986,2842,Böckten,4,4000,125
+1986,2843,Buckten,( ),( ),( )
+1986,2844,Buus,,,
+1986,2845,Diepflingen,4,2800,123
+1986,2846,Gelterkinden,8,4200,143
+1986,2847,Häfelfingen,3,2800,60
+1986,2848,Hemmiken,,,
+1986,2849,Itingen,8,5600,125
+1986,2850,Känerkinden,10,8100,117
+1986,2852,Läufelfingen,3,3700,57
+1986,2853,Maisprach,3,1900,182
+1986,2854,Nusshof,( ),( ),( )
+1986,2855,Oltingen,( ),( ),( )
+1986,2856,Ormalingen,4,2800,142
+1986,2858,Rothenfluh,( ),( ),( )
+1986,2859,Rümlingen,,,
+1986,2860,Rünenberg,,,
+1986,2861,Sissach,32,21700,220
+1986,2862,Tecknau,( ),( ),( )
+1986,2863,Tenniken,8,5200,131
+1986,2864,Thürnen,( ),( ),( )
+1986,2865,Wenslingen,,,
+1986,2866,Wintersingen,,,
+1986,2867,Wittinsburg,,,
+1986,2881,Arboldswil,,,
+1986,2882,Bennwil,( ),( ),( )
+1986,2883,Bretzwil,,,
+1986,2884,Diegten,15,11700,91
+1986,2885,Eptingen,( ),( ),( )
+1986,2886,Hölstein,3,2100,136
+1986,2887,Lampenberg,,,
+1986,2888,Langenbruck,( ),( ),( )
+1986,2889,Lauwil,,,
+1986,2890,Liedertswil,3,3300,57
+1986,2891,Niederdorf,11,6500,136
+1986,2893,Reigoldswil,4,2800,147
+1986,2894,Titterten,4,3600,107
+1986,2895,Waldenburg,,,
+1987,2762,Allschwil,23,17100,314
+1987,2763,Arlesheim,11,9800,545
+1987,2765,Binningen,38,21200,417
+1987,2766,Birsfelden,,,
+1987,2767,Bottmingen,6,3100,595
+1987,2768,Ettingen,( ),( ),( )
+1987,2769,Münchenstein,12,12300,368
+1987,2770,Muttenz,3,1500,370
+1987,2772,Pfeffingen,7,4100,230
+1987,2774,Schönenbuch,7,5200,371
+1987,2775,Therwil,10,7000,551
+1987,2821,Arisdorf,3,1900,184
+1987,2822,Augst,,,
+1987,2823,Bubendorf,15,9500,222
+1987,2824,Frenkendorf,9,7000,368
+1987,2825,Füllinsdorf,,,
+1987,2826,Giebenach,3,1000,213
+1987,2827,Hersberg,,,
+1987,2828,Lausen,12,7200,222
+1987,2829,Liestal,43,21400,269
+1987,2830,Lupsingen,4,2000,166
+1987,2831,Pratteln,10,5500,305
+1987,2832,Ramlinsburg,,,
+1987,2833,Seltisberg,7,5300,174
+1987,2841,Anwil,( ),( ),( )
+1987,2842,Böckten,( ),( ),( )
+1987,2843,Buckten,15,8700,111
+1987,2844,Buus,( ),( ),( )
+1987,2845,Diepflingen,( ),( ),( )
+1987,2846,Gelterkinden,20,12600,173
+1987,2847,Häfelfingen,,,
+1987,2848,Hemmiken,,,
+1987,2849,Itingen,8,5200,196
+1987,2850,Känerkinden,6,3700,113
+1987,2852,Läufelfingen,13,7700,82
+1987,2853,Maisprach,7,5800,198
+1987,2854,Nusshof,,,
+1987,2855,Oltingen,( ),( ),( )
+1987,2856,Ormalingen,13,5300,184
+1987,2858,Rothenfluh,( ),( ),( )
+1987,2859,Rümlingen,( ),( ),( )
+1987,2860,Rünenberg,,,
+1987,2861,Sissach,13,6000,220
+1987,2862,Tecknau,,,
+1987,2863,Tenniken,4,4000,151
+1987,2864,Thürnen,5,2500,177
+1987,2865,Wenslingen,( ),( ),( )
+1987,2866,Wintersingen,,,
+1987,2867,Wittinsburg,,,
+1987,2881,Arboldswil,,,
+1987,2882,Bennwil,5,5800,114
+1987,2883,Bretzwil,,,
+1987,2884,Diegten,4,2600,119
+1987,2885,Eptingen,( ),( ),( )
+1987,2886,Hölstein,( ),( ),( )
+1987,2887,Lampenberg,,,
+1987,2888,Langenbruck,4,2800,104
+1987,2889,Lauwil,( ),( ),( )
+1987,2890,Liedertswil,,,
+1987,2891,Niederdorf,4,3600,96
+1987,2893,Reigoldswil,3,2000,130
+1987,2894,Titterten,,,
+1987,2895,Waldenburg,,,
+1988,2762,Allschwil,10,6700,577
+1988,2763,Arlesheim,5,3300,581
+1988,2765,Binningen,7,6000,662
+1988,2766,Birsfelden,,,
+1988,2767,Bottmingen,16,10100,530
+1988,2768,Ettingen,7,2800,480
+1988,2769,Münchenstein,9,4600,432
+1988,2770,Muttenz,11,8700,535
+1988,2772,Pfeffingen,7,3600,343
+1988,2774,Schönenbuch,8,5600,370
+1988,2775,Therwil,11,10800,470
+1988,2821,Arisdorf,4,2500,186
+1988,2822,Augst,,,
+1988,2823,Bubendorf,14,11700,264
+1988,2824,Frenkendorf,6,5300,321
+1988,2825,Füllinsdorf,6,3600,325
+1988,2826,Giebenach,( ),( ),( )
+1988,2827,Hersberg,( ),( ),( )
+1988,2828,Lausen,15,5300,266
+1988,2829,Liestal,40,24900,355
+1988,2830,Lupsingen,( ),( ),( )
+1988,2831,Pratteln,5,4600,417
+1988,2832,Ramlinsburg,,,
+1988,2833,Seltisberg,( ),( ),( )
+1988,2841,Anwil,( ),( ),( )
+1988,2842,Böckten,,,
+1988,2843,Buckten,3,1100,143
+1988,2844,Buus,( ),( ),( )
+1988,2845,Diepflingen,4,2400,156
+1988,2846,Gelterkinden,12,10000,263
+1988,2847,Häfelfingen,,,
+1988,2848,Hemmiken,,,
+1988,2849,Itingen,5,2400,286
+1988,2850,Känerkinden,9,6900,128
+1988,2852,Läufelfingen,4,2600,128
+1988,2853,Maisprach,4,2700,392
+1988,2854,Nusshof,3,1700,159
+1988,2855,Oltingen,3,2500,86
+1988,2856,Ormalingen,5,1700,208
+1988,2858,Rothenfluh,3,2000,106
+1988,2859,Rümlingen,( ),( ),( )
+1988,2860,Rünenberg,( ),( ),( )
+1988,2861,Sissach,16,14400,302
+1988,2862,Tecknau,,,
+1988,2863,Tenniken,,,
+1988,2864,Thürnen,3,1300,191
+1988,2865,Wenslingen,( ),( ),( )
+1988,2866,Wintersingen,( ),( ),( )
+1988,2867,Wittinsburg,( ),( ),( )
+1988,2881,Arboldswil,( ),( ),( )
+1988,2882,Bennwil,,,
+1988,2883,Bretzwil,,,
+1988,2884,Diegten,3,1400,110
+1988,2885,Eptingen,( ),( ),( )
+1988,2886,Hölstein,5,3700,170
+1988,2887,Lampenberg,( ),( ),( )
+1988,2888,Langenbruck,( ),( ),( )
+1988,2889,Lauwil,9,7200,72
+1988,2890,Liedertswil,,,
+1988,2891,Niederdorf,( ),( ),( )
+1988,2893,Reigoldswil,( ),( ),( )
+1988,2894,Titterten,,,
+1988,2895,Waldenburg,( ),( ),( )
+1989,2762,Allschwil,18,10000,684
+1989,2763,Arlesheim,23,20300,648
+1989,2765,Binningen,4,3800,767
+1989,2766,Birsfelden,,,
+1989,2767,Bottmingen,5,4600,524
+1989,2768,Ettingen,( ),( ),( )
+1989,2769,Münchenstein,18,11500,339
+1989,2770,Muttenz,14,7600,643
+1989,2772,Pfeffingen,7,3200,400
+1989,2774,Schönenbuch,4,1300,452
+1989,2775,Therwil,12,10900,445
+1989,2821,Arisdorf,4,2900,266
+1989,2822,Augst,,,
+1989,2823,Bubendorf,11,7700,299
+1989,2824,Frenkendorf,3,2000,443
+1989,2825,Füllinsdorf,9,7900,408
+1989,2826,Giebenach,7,5000,345
+1989,2827,Hersberg,,,
+1989,2828,Lausen,29,19100,339
+1989,2829,Liestal,18,11000,386
+1989,2830,Lupsingen,( ),( ),( )
+1989,2831,Pratteln,23,11600,398
+1989,2832,Ramlinsburg,16,12200,229
+1989,2833,Seltisberg,,,
+1989,2841,Anwil,( ),( ),( )
+1989,2842,Böckten,3,4600,193
+1989,2843,Buckten,7,3600,100
+1989,2844,Buus,4,3300,150
+1989,2845,Diepflingen,6,3500,284
+1989,2846,Gelterkinden,18,20200,251
+1989,2847,Häfelfingen,,,
+1989,2848,Hemmiken,,,
+1989,2849,Itingen,5,5800,285
+1989,2850,Känerkinden,5,2700,167
+1989,2852,Läufelfingen,7,3900,144
+1989,2853,Maisprach,10,6300,364
+1989,2854,Nusshof,,,
+1989,2855,Oltingen,( ),( ),( )
+1989,2856,Ormalingen,27,13500,170
+1989,2858,Rothenfluh,3,3600,164
+1989,2859,Rümlingen,3,3100,89
+1989,2860,Rünenberg,3,2700,300
+1989,2861,Sissach,( ),( ),( )
+1989,2862,Tecknau,5,4100,154
+1989,2863,Tenniken,6,4300,189
+1989,2864,Thürnen,( ),( ),( )
+1989,2865,Wenslingen,3,4400,274
+1989,2866,Wintersingen,,,
+1989,2867,Wittinsburg,,,
+1989,2881,Arboldswil,6,4200,133
+1989,2882,Bennwil,6,4400,103
+1989,2883,Bretzwil,,,
+1989,2884,Diegten,4,2300,108
+1989,2885,Eptingen,,,
+1989,2886,Hölstein,24,11600,165
+1989,2887,Lampenberg,( ),( ),( )
+1989,2888,Langenbruck,6,4100,178
+1989,2889,Lauwil,,,
+1989,2890,Liedertswil,,,
+1989,2891,Niederdorf,8,5200,134
+1989,2893,Reigoldswil,( ),( ),( )
+1989,2894,Titterten,( ),( ),( )
+1989,2895,Waldenburg,,,
+1990,2762,Allschwil,6,2900,553
+1990,2763,Arlesheim,3,3400,996
+1990,2765,Binningen,3,2500,956
+1990,2766,Birsfelden,,,
+1990,2767,Bottmingen,6,2700,731
+1990,2768,Ettingen,4,2300,528
+1990,2769,Münchenstein,3,3600,735
+1990,2770,Muttenz,6,3200,771
+1990,2772,Pfeffingen,11,7800,672
+1990,2774,Schönenbuch,( ),( ),( )
+1990,2775,Therwil,20,13000,673
+1990,2821,Arisdorf,5,2100,408
+1990,2822,Augst,,,
+1990,2823,Bubendorf,8,5400,368
+1990,2824,Frenkendorf,( ),( ),( )
+1990,2825,Füllinsdorf,( ),( ),( )
+1990,2826,Giebenach,,,
+1990,2827,Hersberg,( ),( ),( )
+1990,2828,Lausen,8,5000,350
+1990,2829,Liestal,13,13600,460
+1990,2830,Lupsingen,( ),( ),( )
+1990,2831,Pratteln,4,3900,287
+1990,2832,Ramlinsburg,,,
+1990,2833,Seltisberg,4,2000,255
+1990,2841,Anwil,,,
+1990,2842,Böckten,( ),( ),( )
+1990,2843,Buckten,( ),( ),( )
+1990,2844,Buus,( ),( ),( )
+1990,2845,Diepflingen,3,2800,201
+1990,2846,Gelterkinden,6,3300,383
+1990,2847,Häfelfingen,,,
+1990,2848,Hemmiken,( ),( ),( )
+1990,2849,Itingen,4,3500,381
+1990,2850,Känerkinden,( ),( ),( )
+1990,2852,Läufelfingen,7,5300,144
+1990,2853,Maisprach,4,2900,482
+1990,2854,Nusshof,( ),( ),( )
+1990,2855,Oltingen,3,2600,245
+1990,2856,Ormalingen,4,1800,215
+1990,2858,Rothenfluh,( ),( ),( )
+1990,2859,Rümlingen,( ),( ),( )
+1990,2860,Rünenberg,( ),( ),( )
+1990,2861,Sissach,15,9200,406
+1990,2862,Tecknau,( ),( ),( )
+1990,2863,Tenniken,( ),( ),( )
+1990,2864,Thürnen,,,
+1990,2865,Wenslingen,3,2200,283
+1990,2866,Wintersingen,,,
+1990,2867,Wittinsburg,5,2000,136
+1990,2881,Arboldswil,( ),( ),( )
+1990,2882,Bennwil,8,2000,85
+1990,2883,Bretzwil,( ),( ),( )
+1990,2884,Diegten,3,1200,173
+1990,2885,Eptingen,( ),( ),( )
+1990,2886,Hölstein,( ),( ),( )
+1990,2887,Lampenberg,,,
+1990,2888,Langenbruck,4,3300,186
+1990,2889,Lauwil,,,
+1990,2890,Liedertswil,,,
+1990,2891,Niederdorf,( ),( ),( )
+1990,2893,Reigoldswil,3,1700,362
+1990,2894,Titterten,,,
+1990,2895,Waldenburg,( ),( ),( )
+1991,2762,Allschwil,( ),( ),( )
+1991,2763,Arlesheim,4,2800,648
+1991,2765,Binningen,7,4800,870
+1991,2766,Birsfelden,( ),( ),( )
+1991,2767,Bottmingen,8,5000,859
+1991,2768,Ettingen,6,2000,534
+1991,2769,Münchenstein,( ),( ),( )
+1991,2770,Muttenz,( ),( ),( )
+1991,2772,Pfeffingen,7,5400,646
+1991,2774,Schönenbuch,3,2500,556
+1991,2775,Therwil,( ),( ),( )
+1991,2821,Arisdorf,3,600,285
+1991,2822,Augst,( ),( ),( )
+1991,2823,Bubendorf,( ),( ),( )
+1991,2824,Frenkendorf,6,5700,590
+1991,2825,Füllinsdorf,( ),( ),( )
+1991,2826,Giebenach,3,600,301
+1991,2827,Hersberg,( ),( ),( )
+1991,2828,Lausen,9,4800,533
+1991,2829,Liestal,13,11300,463
+1991,2830,Lupsingen,( ),( ),( )
+1991,2831,Pratteln,5,3400,366
+1991,2832,Ramlinsburg,,,
+1991,2833,Seltisberg,5,4300,495
+1991,2841,Anwil,( ),( ),( )
+1991,2842,Böckten,( ),( ),( )
+1991,2843,Buckten,( ),( ),( )
+1991,2844,Buus,( ),( ),( )
+1991,2845,Diepflingen,7,3100,254
+1991,2846,Gelterkinden,12,7000,388
+1991,2847,Häfelfingen,,,
+1991,2848,Hemmiken,,,
+1991,2849,Itingen,( ),( ),( )
+1991,2850,Känerkinden,( ),( ),( )
+1991,2852,Läufelfingen,6,6500,277
+1991,2853,Maisprach,6,2900,519
+1991,2854,Nusshof,,,
+1991,2855,Oltingen,,,
+1991,2856,Ormalingen,5,2000,290
+1991,2858,Rothenfluh,3,2200,237
+1991,2859,Rümlingen,( ),( ),( )
+1991,2860,Rünenberg,,,
+1991,2861,Sissach,3,1500,474
+1991,2862,Tecknau,( ),( ),( )
+1991,2863,Tenniken,( ),( ),( )
+1991,2864,Thürnen,,,
+1991,2865,Wenslingen,6,2500,369
+1991,2866,Wintersingen,,,
+1991,2867,Wittinsburg,,,
+1991,2881,Arboldswil,( ),( ),( )
+1991,2882,Bennwil,( ),( ),( )
+1991,2883,Bretzwil,,,
+1991,2884,Diegten,3,3600,105
+1991,2885,Eptingen,( ),( ),( )
+1991,2886,Hölstein,( ),( ),( )
+1991,2887,Lampenberg,( ),( ),( )
+1991,2888,Langenbruck,( ),( ),( )
+1991,2889,Lauwil,3,2100,89
+1991,2890,Liedertswil,,,
+1991,2891,Niederdorf,,,
+1991,2893,Reigoldswil,,,
+1991,2894,Titterten,( ),( ),( )
+1991,2895,Waldenburg,10,7100,226
+1992,2762,Allschwil,3,3300,958
+1992,2763,Arlesheim,6,3300,948
+1992,2765,Binningen,5,2400,795
+1992,2766,Birsfelden,,,
+1992,2767,Bottmingen,6,4300,905
+1992,2768,Ettingen,10,5800,538
+1992,2769,Münchenstein,3,3300,146
+1992,2770,Muttenz,9,3500,782
+1992,2772,Pfeffingen,4,2900,645
+1992,2774,Schönenbuch,,,
+1992,2775,Therwil,3,2200,821
+1992,2821,Arisdorf,,,
+1992,2822,Augst,( ),( ),( )
+1992,2823,Bubendorf,10,5000,431
+1992,2824,Frenkendorf,( ),( ),( )
+1992,2825,Füllinsdorf,( ),( ),( )
+1992,2826,Giebenach,3,1300,679
+1992,2827,Hersberg,( ),( ),( )
+1992,2828,Lausen,5,1600,535
+1992,2829,Liestal,4,3100,384
+1992,2830,Lupsingen,( ),( ),( )
+1992,2831,Pratteln,7,1900,533
+1992,2832,Ramlinsburg,( ),( ),( )
+1992,2833,Seltisberg,4,2400,516
+1992,2841,Anwil,( ),( ),( )
+1992,2842,Böckten,,,
+1992,2843,Buckten,( ),( ),( )
+1992,2844,Buus,4,3300,178
+1992,2845,Diepflingen,,,
+1992,2846,Gelterkinden,4,2200,429
+1992,2847,Häfelfingen,,,
+1992,2848,Hemmiken,,,
+1992,2849,Itingen,( ),( ),( )
+1992,2850,Känerkinden,3,1300,243
+1992,2852,Läufelfingen,( ),( ),( )
+1992,2853,Maisprach,8,4300,515
+1992,2854,Nusshof,( ),( ),( )
+1992,2855,Oltingen,,,
+1992,2856,Ormalingen,3,2100,307
+1992,2858,Rothenfluh,( ),( ),( )
+1992,2859,Rümlingen,,,
+1992,2860,Rünenberg,( ),( ),( )
+1992,2861,Sissach,5,5000,445
+1992,2862,Tecknau,,,
+1992,2863,Tenniken,( ),( ),( )
+1992,2864,Thürnen,( ),( ),( )
+1992,2865,Wenslingen,,,
+1992,2866,Wintersingen,,,
+1992,2867,Wittinsburg,( ),( ),( )
+1992,2881,Arboldswil,8,4000,279
+1992,2882,Bennwil,,,
+1992,2883,Bretzwil,( ),( ),( )
+1992,2884,Diegten,,,
+1992,2885,Eptingen,,,
+1992,2886,Hölstein,,,
+1992,2887,Lampenberg,( ),( ),( )
+1992,2888,Langenbruck,4,2200,201
+1992,2889,Lauwil,8,4000,158
+1992,2890,Liedertswil,( ),( ),( )
+1992,2891,Niederdorf,( ),( ),( )
+1992,2893,Reigoldswil,,,
+1992,2894,Titterten,( ),( ),( )
+1992,2895,Waldenburg,4,2600,187
+1993,2762,Allschwil,3,1700,939
+1993,2763,Arlesheim,6,4600,848
+1993,2765,Binningen,5,4600,906
+1993,2766,Birsfelden,,,
+1993,2767,Bottmingen,5,2500,922
+1993,2768,Ettingen,( ),( ),( )
+1993,2769,Münchenstein,3,1800,263
+1993,2770,Muttenz,20,13300,598
+1993,2772,Pfeffingen,6,3900,667
+1993,2774,Schönenbuch,( ),( ),( )
+1993,2775,Therwil,3,1700,517
+1993,2821,Arisdorf,( ),( ),( )
+1993,2822,Augst,( ),( ),( )
+1993,2823,Bubendorf,12,5700,445
+1993,2824,Frenkendorf,3,2200,638
+1993,2825,Füllinsdorf,( ),( ),( )
+1993,2826,Giebenach,,,
+1993,2827,Hersberg,,,
+1993,2828,Lausen,( ),( ),( )
+1993,2829,Liestal,6,3100,639
+1993,2830,Lupsingen,( ),( ),( )
+1993,2831,Pratteln,3,1400,476
+1993,2832,Ramlinsburg,4,2400,257
+1993,2833,Seltisberg,3,1100,465
+1993,2841,Anwil,3,2300,303
+1993,2842,Böckten,,,
+1993,2843,Buckten,,,
+1993,2844,Buus,4,2800,195
+1993,2845,Diepflingen,3,2200,192
+1993,2846,Gelterkinden,8,6300,434
+1993,2847,Häfelfingen,,,
+1993,2848,Hemmiken,( ),( ),( )
+1993,2849,Itingen,3,1500,450
+1993,2850,Känerkinden,7,3100,272
+1993,2852,Läufelfingen,4,3200,303
+1993,2853,Maisprach,4,1800,429
+1993,2854,Nusshof,,,
+1993,2855,Oltingen,,,
+1993,2856,Ormalingen,9,4600,344
+1993,2858,Rothenfluh,,,
+1993,2859,Rümlingen,,,
+1993,2860,Rünenberg,( ),( ),( )
+1993,2861,Sissach,12,8600,511
+1993,2862,Tecknau,,,
+1993,2863,Tenniken,6,3200,316
+1993,2864,Thürnen,( ),( ),( )
+1993,2865,Wenslingen,4,2200,351
+1993,2866,Wintersingen,3,2600,249
+1993,2867,Wittinsburg,4,2900,246
+1993,2881,Arboldswil,3,2000,327
+1993,2882,Bennwil,( ),( ),( )
+1993,2883,Bretzwil,,,
+1993,2884,Diegten,( ),( ),( )
+1993,2885,Eptingen,3,2800,130
+1993,2886,Hölstein,( ),( ),( )
+1993,2887,Lampenberg,5,2100,196
+1993,2888,Langenbruck,,,
+1993,2889,Lauwil,( ),( ),( )
+1993,2890,Liedertswil,,,
+1993,2891,Niederdorf,3,2000,229
+1993,2893,Reigoldswil,( ),( ),( )
+1993,2894,Titterten,,,
+1993,2895,Waldenburg,,,
+1994,2762,Allschwil,3,1200,733
+1994,2763,Arlesheim,9,7200,814
+1994,2765,Binningen,5,4200,914
+1994,2766,Birsfelden,,,
+1994,2767,Bottmingen,8,6800,771
+1994,2768,Ettingen,3,2500,518
+1994,2769,Münchenstein,7,6400,669
+1994,2770,Muttenz,7,8200,874
+1994,2772,Pfeffingen,7,5800,629
+1994,2774,Schönenbuch,7,4600,657
+1994,2775,Therwil,( ),( ),( )
+1994,2781,Blauen,( ),( ),( )
+1994,2782,Brislach,3,1400,338
+1994,2784,Dittingen,,,
+1994,2785,Duggingen,3,1200,491
+1994,2786,Grellingen,3,1300,324
+1994,2787,Laufen,( ),( ),( )
+1994,2788,Liesberg,( ),( ),( )
+1994,2789,Nenzlingen,( ),( ),( )
+1994,2790,Roggenburg,,,
+1994,2791,Röschenz,4,2100,386
+1994,2792,Wahlen,( ),( ),( )
+1994,2821,Arisdorf,( ),( ),( )
+1994,2822,Augst,,,
+1994,2823,Bubendorf,31,20300,459
+1994,2824,Frenkendorf,( ),( ),( )
+1994,2825,Füllinsdorf,( ),( ),( )
+1994,2826,Giebenach,( ),( ),( )
+1994,2827,Hersberg,3,1600,363
+1994,2828,Lausen,16,8700,555
+1994,2829,Liestal,19,13000,497
+1994,2830,Lupsingen,6,4600,364
+1994,2831,Pratteln,7,2800,542
+1994,2832,Ramlinsburg,3,800,354
+1994,2833,Seltisberg,28,11800,506
+1994,2841,Anwil,3,2100,300
+1994,2842,Böckten,( ),( ),( )
+1994,2843,Buckten,( ),( ),( )
+1994,2844,Buus,( ),( ),( )
+1994,2845,Diepflingen,( ),( ),( )
+1994,2846,Gelterkinden,16,9000,347
+1994,2847,Häfelfingen,,,
+1994,2848,Hemmiken,( ),( ),( )
+1994,2849,Itingen,12,6000,439
+1994,2850,Känerkinden,5,2500,278
+1994,2852,Läufelfingen,( ),( ),( )
+1994,2853,Maisprach,12,4300,577
+1994,2854,Nusshof,,,
+1994,2855,Oltingen,( ),( ),( )
+1994,2856,Ormalingen,22,8300,391
+1994,2858,Rothenfluh,( ),( ),( )
+1994,2859,Rümlingen,,,
+1994,2860,Rünenberg,( ),( ),( )
+1994,2861,Sissach,8,4800,446
+1994,2862,Tecknau,( ),( ),( )
+1994,2863,Tenniken,( ),( ),( )
+1994,2864,Thürnen,( ),( ),( )
+1994,2865,Wenslingen,( ),( ),( )
+1994,2866,Wintersingen,( ),( ),( )
+1994,2867,Wittinsburg,( ),( ),( )
+1994,2881,Arboldswil,( ),( ),( )
+1994,2882,Bennwil,( ),( ),( )
+1994,2883,Bretzwil,( ),( ),( )
+1994,2884,Diegten,,,
+1994,2885,Eptingen,,,
+1994,2886,Hölstein,5,2800,285
+1994,2887,Lampenberg,( ),( ),( )
+1994,2888,Langenbruck,( ),( ),( )
+1994,2889,Lauwil,( ),( ),( )
+1994,2890,Liedertswil,,,
+1994,2891,Niederdorf,4,1700,296
+1994,2893,Reigoldswil,3,1800,274
+1994,2894,Titterten,3,3500,105
+1994,2895,Waldenburg,4,3100,170
+1995,2762,Allschwil,5,2800,819
+1995,2763,Arlesheim,7,5600,822
+1995,2765,Binningen,4,3000,810
+1995,2766,Birsfelden,( ),( ),( )
+1995,2767,Bottmingen,11,9100,934
+1995,2768,Ettingen,3,2500,808
+1995,2769,Münchenstein,5,2300,619
+1995,2770,Muttenz,11,9000,942
+1995,2772,Pfeffingen,8,7100,628
+1995,2774,Schönenbuch,3,1300,684
+1995,2775,Therwil,18,10300,684
+1995,2781,Blauen,5,2700,408
+1995,2782,Brislach,6,3700,302
+1995,2784,Dittingen,( ),( ),( )
+1995,2785,Duggingen,( ),( ),( )
+1995,2786,Grellingen,4,2900,379
+1995,2787,Laufen,5,3700,500
+1995,2788,Liesberg,,,
+1995,2789,Nenzlingen,( ),( ),( )
+1995,2790,Roggenburg,,,
+1995,2791,Röschenz,9,4400,453
+1995,2792,Wahlen,8,3300,330
+1995,2821,Arisdorf,8,3200,435
+1995,2822,Augst,,,
+1995,2823,Bubendorf,31,16700,425
+1995,2824,Frenkendorf,11,5800,592
+1995,2825,Füllinsdorf,4,2600,573
+1995,2826,Giebenach,3,900,500
+1995,2827,Hersberg,,,
+1995,2828,Lausen,4,1300,564
+1995,2829,Liestal,9,5600,438
+1995,2830,Lupsingen,9,7000,385
+1995,2831,Pratteln,4,4600,709
+1995,2832,Ramlinsburg,9,4300,328
+1995,2833,Seltisberg,9,4000,543
+1995,2841,Anwil,6,3800,310
+1995,2842,Böckten,,,
+1995,2843,Buckten,6,1300,102
+1995,2844,Buus,4,2500,234
+1995,2845,Diepflingen,( ),( ),( )
+1995,2846,Gelterkinden,5,2500,393
+1995,2847,Häfelfingen,,,
+1995,2848,Hemmiken,,,
+1995,2849,Itingen,5,2600,458
+1995,2850,Känerkinden,6,3300,366
+1995,2852,Läufelfingen,( ),( ),( )
+1995,2853,Maisprach,3,2400,646
+1995,2854,Nusshof,,,
+1995,2855,Oltingen,3,1100,223
+1995,2856,Ormalingen,4,1800,383
+1995,2858,Rothenfluh,( ),( ),( )
+1995,2859,Rümlingen,( ),( ),( )
+1995,2860,Rünenberg,( ),( ),( )
+1995,2861,Sissach,5,3100,457
+1995,2862,Tecknau,3,800,250
+1995,2863,Tenniken,5,2500,248
+1995,2864,Thürnen,3,1600,382
+1995,2865,Wenslingen,,,
+1995,2866,Wintersingen,,,
+1995,2867,Wittinsburg,( ),( ),( )
+1995,2881,Arboldswil,( ),( ),( )
+1995,2882,Bennwil,3,4000,207
+1995,2883,Bretzwil,3,1600,265
+1995,2884,Diegten,6,2700,207
+1995,2885,Eptingen,,,
+1995,2886,Hölstein,( ),( ),( )
+1995,2887,Lampenberg,( ),( ),( )
+1995,2888,Langenbruck,6,3700,225
+1995,2889,Lauwil,,,
+1995,2890,Liedertswil,( ),( ),( )
+1995,2891,Niederdorf,8,5700,313
+1995,2893,Reigoldswil,4,1800,352
+1995,2894,Titterten,,,
+1995,2895,Waldenburg,( ),( ),( )
+1996,2762,Allschwil,8,3300,903
+1996,2763,Arlesheim,3,1400,849
+1996,2765,Binningen,7,7300,826
+1996,2766,Birsfelden,,,
+1996,2767,Bottmingen,14,4900,972
+1996,2768,Ettingen,( ),( ),( )
+1996,2769,Münchenstein,25,6500,761
+1996,2770,Muttenz,9,3900,851
+1996,2772,Pfeffingen,5,3800,721
+1996,2774,Schönenbuch,25,9500,563
+1996,2775,Therwil,57,24100,725
+1996,2781,Blauen,4,2800,400
+1996,2782,Brislach,( ),( ),( )
+1996,2784,Dittingen,3,800,245
+1996,2785,Duggingen,( ),( ),( )
+1996,2786,Grellingen,,,
+1996,2787,Laufen,8,4500,410
+1996,2788,Liesberg,6,5100,251
+1996,2789,Nenzlingen,,,
+1996,2790,Roggenburg,,,
+1996,2791,Röschenz,11,5800,378
+1996,2792,Wahlen,,,
+1996,2821,Arisdorf,3,1300,470
+1996,2822,Augst,( ),( ),( )
+1996,2823,Bubendorf,22,8900,451
+1996,2824,Frenkendorf,3,2100,664
+1996,2825,Füllinsdorf,19,6600,578
+1996,2826,Giebenach,9,2600,471
+1996,2827,Hersberg,,,
+1996,2828,Lausen,( ),( ),( )
+1996,2829,Liestal,47,19800,532
+1996,2830,Lupsingen,9,6400,429
+1996,2831,Pratteln,4,1400,764
+1996,2832,Ramlinsburg,6,3100,419
+1996,2833,Seltisberg,( ),( ),( )
+1996,2841,Anwil,6,4300,283
+1996,2842,Böckten,4,1100,242
+1996,2843,Buckten,4,700,123
+1996,2844,Buus,6,3300,271
+1996,2845,Diepflingen,4,4400,265
+1996,2846,Gelterkinden,12,6000,341
+1996,2847,Häfelfingen,,,
+1996,2848,Hemmiken,,,
+1996,2849,Itingen,3,700,439
+1996,2850,Känerkinden,( ),( ),( )
+1996,2852,Läufelfingen,( ),( ),( )
+1996,2853,Maisprach,6,3400,578
+1996,2854,Nusshof,3,1600,281
+1996,2855,Oltingen,( ),( ),( )
+1996,2856,Ormalingen,7,4300,295
+1996,2858,Rothenfluh,( ),( ),( )
+1996,2859,Rümlingen,( ),( ),( )
+1996,2860,Rünenberg,( ),( ),( )
+1996,2861,Sissach,3,1900,556
+1996,2862,Tecknau,5,2500,350
+1996,2863,Tenniken,4,2000,320
+1996,2864,Thürnen,17,7200,398
+1996,2865,Wenslingen,( ),( ),( )
+1996,2866,Wintersingen,5,2400,289
+1996,2867,Wittinsburg,( ),( ),( )
+1996,2881,Arboldswil,( ),( ),( )
+1996,2882,Bennwil,( ),( ),( )
+1996,2883,Bretzwil,( ),( ),( )
+1996,2884,Diegten,5,2100,274
+1996,2885,Eptingen,,,
+1996,2886,Hölstein,( ),( ),( )
+1996,2887,Lampenberg,( ),( ),( )
+1996,2888,Langenbruck,( ),( ),( )
+1996,2889,Lauwil,,,
+1996,2890,Liedertswil,( ),( ),( )
+1996,2891,Niederdorf,7,4700,282
+1996,2893,Reigoldswil,( ),( ),( )
+1996,2894,Titterten,3,3200,231
+1996,2895,Waldenburg,,,
+1997,2762,Allschwil,17,7400,755
+1997,2763,Arlesheim,7,4800,862
+1997,2765,Binningen,9,5500,769
+1997,2766,Birsfelden,,,
+1997,2767,Bottmingen,12,5000,874
+1997,2768,Ettingen,4,1600,652
+1997,2769,Münchenstein,18,8100,690
+1997,2770,Muttenz,12,4400,830
+1997,2772,Pfeffingen,23,10300,691
+1997,2774,Schönenbuch,18,6800,673
+1997,2775,Therwil,37,18500,682
+1997,2781,Blauen,( ),( ),( )
+1997,2782,Brislach,( ),( ),( )
+1997,2784,Dittingen,3,800,159
+1997,2785,Duggingen,,,
+1997,2786,Grellingen,7,3000,384
+1997,2787,Laufen,3,4300,544
+1997,2788,Liesberg,( ),( ),( )
+1997,2789,Nenzlingen,( ),( ),( )
+1997,2790,Roggenburg,( ),( ),( )
+1997,2791,Röschenz,11,5600,418
+1997,2792,Wahlen,4,1400,311
+1997,2821,Arisdorf,7,4500,388
+1997,2822,Augst,( ),( ),( )
+1997,2823,Bubendorf,30,16600,455
+1997,2824,Frenkendorf,19,7800,509
+1997,2825,Füllinsdorf,13,7500,545
+1997,2826,Giebenach,( ),( ),( )
+1997,2827,Hersberg,4,1800,371
+1997,2828,Lausen,21,8300,440
+1997,2829,Liestal,34,11900,624
+1997,2830,Lupsingen,16,6700,452
+1997,2831,Pratteln,10,4900,634
+1997,2832,Ramlinsburg,10,8400,354
+1997,2833,Seltisberg,6,4000,540
+1997,2841,Anwil,3,2300,298
+1997,2842,Böckten,,,
+1997,2843,Buckten,( ),( ),( )
+1997,2844,Buus,5,3000,270
+1997,2845,Diepflingen,3,3700,325
+1997,2846,Gelterkinden,10,10400,299
+1997,2847,Häfelfingen,( ),( ),( )
+1997,2848,Hemmiken,,,
+1997,2849,Itingen,( ),( ),( )
+1997,2850,Känerkinden,( ),( ),( )
+1997,2852,Läufelfingen,7,4300,240
+1997,2853,Maisprach,5,2400,440
+1997,2854,Nusshof,3,1300,304
+1997,2855,Oltingen,,,
+1997,2856,Ormalingen,5,3400,424
+1997,2858,Rothenfluh,,,
+1997,2859,Rümlingen,( ),( ),( )
+1997,2860,Rünenberg,3,2200,314
+1997,2861,Sissach,9,6600,591
+1997,2862,Tecknau,4,3100,205
+1997,2863,Tenniken,( ),( ),( )
+1997,2864,Thürnen,6,4200,362
+1997,2865,Wenslingen,3,1500,330
+1997,2866,Wintersingen,,,
+1997,2867,Wittinsburg,3,2100,280
+1997,2881,Arboldswil,( ),( ),( )
+1997,2882,Bennwil,( ),( ),( )
+1997,2883,Bretzwil,( ),( ),( )
+1997,2884,Diegten,12,6900,273
+1997,2885,Eptingen,( ),( ),( )
+1997,2886,Hölstein,8,4400,349
+1997,2887,Lampenberg,,,
+1997,2888,Langenbruck,,,
+1997,2889,Lauwil,( ),( ),( )
+1997,2890,Liedertswil,3,1500,135
+1997,2891,Niederdorf,( ),( ),( )
+1997,2893,Reigoldswil,4,1200,345
+1997,2894,Titterten,( ),( ),( )
+1997,2895,Waldenburg,( ),( ),( )
+1998,2762,Allschwil,14,5200,787
+1998,2763,Arlesheim,7,4400,905
+1998,2765,Binningen,42,19300,697
+1998,2766,Birsfelden,,,
+1998,2767,Bottmingen,12,8200,824
+1998,2768,Ettingen,15,5100,645
+1998,2769,Münchenstein,6,3500,641
+1998,2770,Muttenz,17,9400,836
+1998,2772,Pfeffingen,8,6400,578
+1998,2774,Schönenbuch,13,6400,696
+1998,2775,Therwil,90,34500,695
+1998,2781,Blauen,( ),( ),( )
+1998,2782,Brislach,4,1800,274
+1998,2784,Dittingen,,,
+1998,2785,Duggingen,3,1400,418
+1998,2786,Grellingen,5,2200,340
+1998,2787,Laufen,9,6300,483
+1998,2788,Liesberg,4,1400,206
+1998,2789,Nenzlingen,,,
+1998,2790,Roggenburg,,,
+1998,2791,Röschenz,8,4300,459
+1998,2792,Wahlen,( ),( ),( )
+1998,2821,Arisdorf,3,1500,443
+1998,2822,Augst,( ),( ),( )
+1998,2823,Bubendorf,22,10800,496
+1998,2824,Frenkendorf,9,4800,576
+1998,2825,Füllinsdorf,3,1200,616
+1998,2826,Giebenach,( ),( ),( )
+1998,2827,Hersberg,( ),( ),( )
+1998,2828,Lausen,15,5600,450
+1998,2829,Liestal,50,19500,507
+1998,2830,Lupsingen,11,5100,497
+1998,2831,Pratteln,7,4300,597
+1998,2832,Ramlinsburg,4,2500,443
+1998,2833,Seltisberg,3,1900,556
+1998,2841,Anwil,3,2900,311
+1998,2842,Böckten,3,2200,395
+1998,2843,Buckten,( ),( ),( )
+1998,2844,Buus,9,5700,314
+1998,2845,Diepflingen,,,
+1998,2846,Gelterkinden,10,5600,389
+1998,2847,Häfelfingen,,,
+1998,2848,Hemmiken,,,
+1998,2849,Itingen,12,4600,492
+1998,2850,Känerkinden,,,
+1998,2852,Läufelfingen,6,3200,260
+1998,2853,Maisprach,8,4400,563
+1998,2854,Nusshof,,,
+1998,2855,Oltingen,,,
+1998,2856,Ormalingen,( ),( ),( )
+1998,2858,Rothenfluh,( ),( ),( )
+1998,2859,Rümlingen,,,
+1998,2860,Rünenberg,( ),( ),( )
+1998,2861,Sissach,15,7800,532
+1998,2862,Tecknau,( ),( ),( )
+1998,2863,Tenniken,4,2700,260
+1998,2864,Thürnen,( ),( ),( )
+1998,2865,Wenslingen,3,2000,308
+1998,2866,Wintersingen,3,1500,288
+1998,2867,Wittinsburg,3,1700,284
+1998,2881,Arboldswil,3,1700,311
+1998,2882,Bennwil,7,5400,250
+1998,2883,Bretzwil,( ),( ),( )
+1998,2884,Diegten,( ),( ),( )
+1998,2885,Eptingen,,,
+1998,2886,Hölstein,16,9500,305
+1998,2887,Lampenberg,4,2100,258
+1998,2888,Langenbruck,( ),( ),( )
+1998,2889,Lauwil,( ),( ),( )
+1998,2890,Liedertswil,( ),( ),( )
+1998,2891,Niederdorf,4,2200,229
+1998,2893,Reigoldswil,3,1600,443
+1998,2894,Titterten,( ),( ),( )
+1998,2895,Waldenburg,( ),( ),( )
+1999,2762,Allschwil,5,3900,809
+1999,2763,Arlesheim,10,6600,873
+1999,2765,Binningen,28,15800,882
+1999,2766,Birsfelden,,,
+1999,2767,Bottmingen,14,8800,882
+1999,2768,Ettingen,13,4900,710
+1999,2769,Münchenstein,10,4700,676
+1999,2770,Muttenz,30,11700,887
+1999,2772,Pfeffingen,26,11400,729
+1999,2774,Schönenbuch,8,4500,665
+1999,2775,Therwil,48,18000,730
+1999,2781,Blauen,( ),( ),( )
+1999,2782,Brislach,6,4700,278
+1999,2784,Dittingen,( ),( ),( )
+1999,2785,Duggingen,7,3100,365
+1999,2786,Grellingen,9,2800,368
+1999,2787,Laufen,8,7000,330
+1999,2788,Liesberg,6,3800,195
+1999,2789,Nenzlingen,( ),( ),( )
+1999,2790,Roggenburg,( ),( ),( )
+1999,2791,Röschenz,13,7000,387
+1999,2792,Wahlen,9,4700,299
+1999,2821,Arisdorf,( ),( ),( )
+1999,2822,Augst,,,
+1999,2823,Bubendorf,20,8700,481
+1999,2824,Frenkendorf,6,3000,496
+1999,2825,Füllinsdorf,( ),( ),( )
+1999,2826,Giebenach,,,
+1999,2827,Hersberg,3,1800,504
+1999,2828,Lausen,( ),( ),( )
+1999,2829,Liestal,25,11200,448
+1999,2830,Lupsingen,13,5000,471
+1999,2831,Pratteln,17,7300,675
+1999,2832,Ramlinsburg,10,5800,404
+1999,2833,Seltisberg,13,9000,544
+1999,2841,Anwil,6,4100,295
+1999,2842,Böckten,9,5500,414
+1999,2843,Buckten,( ),( ),( )
+1999,2844,Buus,5,2400,280
+1999,2845,Diepflingen,( ),( ),( )
+1999,2846,Gelterkinden,8,4300,413
+1999,2847,Häfelfingen,,,
+1999,2848,Hemmiken,,,
+1999,2849,Itingen,12,3200,495
+1999,2850,Känerkinden,3,1500,382
+1999,2852,Läufelfingen,8,7900,156
+1999,2853,Maisprach,( ),( ),( )
+1999,2854,Nusshof,3,2000,135
+1999,2855,Oltingen,( ),( ),( )
+1999,2856,Ormalingen,5,3200,430
+1999,2858,Rothenfluh,3,1800,198
+1999,2859,Rümlingen,,,
+1999,2860,Rünenberg,( ),( ),( )
+1999,2861,Sissach,10,7800,487
+1999,2862,Tecknau,,,
+1999,2863,Tenniken,6,3300,313
+1999,2864,Thürnen,5,2100,392
+1999,2865,Wenslingen,5,3400,316
+1999,2866,Wintersingen,5,2100,318
+1999,2867,Wittinsburg,( ),( ),( )
+1999,2881,Arboldswil,5,2900,296
+1999,2882,Bennwil,( ),( ),( )
+1999,2883,Bretzwil,( ),( ),( )
+1999,2884,Diegten,( ),( ),( )
+1999,2885,Eptingen,,,
+1999,2886,Hölstein,6,2400,367
+1999,2887,Lampenberg,6,4600,329
+1999,2888,Langenbruck,3,1400,156
+1999,2889,Lauwil,( ),( ),( )
+1999,2890,Liedertswil,( ),( ),( )
+1999,2891,Niederdorf,3,1300,290
+1999,2893,Reigoldswil,3,1800,349
+1999,2894,Titterten,3,2000,195
+1999,2895,Waldenburg,,,
+2000,2762,Allschwil,10,4900,823
+2000,2763,Arlesheim,8,5700,845
+2000,2765,Binningen,25,11000,926
+2000,2766,Birsfelden,4,1000,948
+2000,2767,Bottmingen,11,9100,857
+2000,2768,Ettingen,20,9000,748
+2000,2769,Münchenstein,( ),( ),( )
+2000,2770,Muttenz,11,5200,853
+2000,2772,Pfeffingen,14,8500,780
+2000,2774,Schönenbuch,6,2400,721
+2000,2775,Therwil,38,22800,748
+2000,2781,Blauen,( ),( ),( )
+2000,2782,Brislach,( ),( ),( )
+2000,2784,Dittingen,,,
+2000,2785,Duggingen,6,3600,379
+2000,2786,Grellingen,( ),( ),( )
+2000,2787,Laufen,24,14700,472
+2000,2788,Liesberg,6,3200,199
+2000,2789,Nenzlingen,( ),( ),( )
+2000,2790,Roggenburg,,,
+2000,2791,Röschenz,9,5200,433
+2000,2792,Wahlen,7,3300,408
+2000,2821,Arisdorf,( ),( ),( )
+2000,2822,Augst,,,
+2000,2823,Bubendorf,18,7300,487
+2000,2824,Frenkendorf,13,5300,644
+2000,2825,Füllinsdorf,3,2300,597
+2000,2826,Giebenach,( ),( ),( )
+2000,2827,Hersberg,( ),( ),( )
+2000,2828,Lausen,7,3700,591
+2000,2829,Liestal,23,15300,606
+2000,2830,Lupsingen,( ),( ),( )
+2000,2831,Pratteln,10,5100,661
+2000,2832,Ramlinsburg,5,3300,427
+2000,2833,Seltisberg,14,6400,558
+2000,2841,Anwil,3,1200,274
+2000,2842,Böckten,7,3700,366
+2000,2843,Buckten,3,2500,206
+2000,2844,Buus,3,1700,378
+2000,2845,Diepflingen,,,
+2000,2846,Gelterkinden,4,2200,404
+2000,2847,Häfelfingen,,,
+2000,2848,Hemmiken,,,
+2000,2849,Itingen,4,1700,500
+2000,2850,Känerkinden,,,
+2000,2852,Läufelfingen,8,3900,194
+2000,2853,Maisprach,4,1400,382
+2000,2854,Nusshof,( ),( ),( )
+2000,2855,Oltingen,,,
+2000,2856,Ormalingen,7,3600,387
+2000,2858,Rothenfluh,( ),( ),( )
+2000,2859,Rümlingen,,,
+2000,2860,Rünenberg,3,1300,490
+2000,2861,Sissach,13,7500,560
+2000,2862,Tecknau,( ),( ),( )
+2000,2863,Tenniken,( ),( ),( )
+2000,2864,Thürnen,,,
+2000,2865,Wenslingen,( ),( ),( )
+2000,2866,Wintersingen,( ),( ),( )
+2000,2867,Wittinsburg,5,2600,299
+2000,2881,Arboldswil,4,3000,288
+2000,2882,Bennwil,3,2000,279
+2000,2883,Bretzwil,4,2700,231
+2000,2884,Diegten,8,4100,280
+2000,2885,Eptingen,,,
+2000,2886,Hölstein,13,5600,385
+2000,2887,Lampenberg,( ),( ),( )
+2000,2888,Langenbruck,4,1600,151
+2000,2889,Lauwil,( ),( ),( )
+2000,2890,Liedertswil,( ),( ),( )
+2000,2891,Niederdorf,,,
+2000,2893,Reigoldswil,,,
+2000,2894,Titterten,( ),( ),( )
+2000,2895,Waldenburg,,,
+2001,2762,Allschwil,14,5900,889
+2001,2763,Arlesheim,12,10200,878
+2001,2765,Binningen,19,10000,993
+2001,2766,Birsfelden,,,
+2001,2767,Bottmingen,8,5200,810
+2001,2768,Ettingen,14,6700,659
+2001,2769,Münchenstein,9,4200,823
+2001,2770,Muttenz,12,9300,966
+2001,2772,Pfeffingen,5,3700,624
+2001,2774,Schönenbuch,9,5900,774
+2001,2775,Therwil,38,19300,790
+2001,2781,Blauen,( ),( ),( )
+2001,2782,Brislach,4,2500,346
+2001,2784,Dittingen,( ),( ),( )
+2001,2785,Duggingen,( ),( ),( )
+2001,2786,Grellingen,5,2200,384
+2001,2787,Laufen,16,10600,396
+2001,2788,Liesberg,3,3500,187
+2001,2789,Nenzlingen,,,
+2001,2790,Roggenburg,3,1700,148
+2001,2791,Röschenz,8,3500,479
+2001,2792,Wahlen,4,2200,391
+2001,2821,Arisdorf,( ),( ),( )
+2001,2822,Augst,,,
+2001,2823,Bubendorf,10,4600,502
+2001,2824,Frenkendorf,14,8000,653
+2001,2825,Füllinsdorf,3,2300,652
+2001,2826,Giebenach,,,
+2001,2827,Hersberg,5,2600,542
+2001,2828,Lausen,4,1900,597
+2001,2829,Liestal,9,6100,479
+2001,2830,Lupsingen,3,2600,462
+2001,2831,Pratteln,12,5600,650
+2001,2832,Ramlinsburg,5,3200,438
+2001,2833,Seltisberg,9,4300,573
+2001,2841,Anwil,( ),( ),( )
+2001,2842,Böckten,7,3400,447
+2001,2843,Buckten,( ),( ),( )
+2001,2844,Buus,( ),( ),( )
+2001,2845,Diepflingen,3,900,378
+2001,2846,Gelterkinden,4,3600,232
+2001,2847,Häfelfingen,,,
+2001,2848,Hemmiken,,,
+2001,2849,Itingen,5,2600,462
+2001,2850,Känerkinden,,,
+2001,2852,Läufelfingen,3,1400,264
+2001,2853,Maisprach,( ),( ),( )
+2001,2854,Nusshof,,,
+2001,2855,Oltingen,( ),( ),( )
+2001,2856,Ormalingen,( ),( ),( )
+2001,2858,Rothenfluh,3,1700,274
+2001,2859,Rümlingen,( ),( ),( )
+2001,2860,Rünenberg,5,3300,382
+2001,2861,Sissach,16,9500,537
+2001,2862,Tecknau,( ),( ),( )
+2001,2863,Tenniken,4,2200,306
+2001,2864,Thürnen,,,
+2001,2865,Wenslingen,( ),( ),( )
+2001,2866,Wintersingen,( ),( ),( )
+2001,2867,Wittinsburg,6,3900,308
+2001,2881,Arboldswil,4,2400,301
+2001,2882,Bennwil,( ),( ),( )
+2001,2883,Bretzwil,( ),( ),( )
+2001,2884,Diegten,7,2100,334
+2001,2885,Eptingen,,,
+2001,2886,Hölstein,6,5200,393
+2001,2887,Lampenberg,4,1400,321
+2001,2888,Langenbruck,( ),( ),( )
+2001,2889,Lauwil,,,
+2001,2890,Liedertswil,( ),( ),( )
+2001,2891,Niederdorf,4,1200,300
+2001,2893,Reigoldswil,( ),( ),( )
+2001,2894,Titterten,,,
+2001,2895,Waldenburg,,,
+2002,2762,Allschwil,16,5700,874
+2002,2763,Arlesheim,( ),( ),( )
+2002,2765,Binningen,13,9000,998
+2002,2766,Birsfelden,,,
+2002,2767,Bottmingen,6,2500,964
+2002,2768,Ettingen,5,2100,732
+2002,2769,Münchenstein,( ),( ),( )
+2002,2770,Muttenz,6,3200,1015
+2002,2772,Pfeffingen,8,8300,609
+2002,2774,Schönenbuch,4,2800,751
+2002,2775,Therwil,23,8200,829
+2002,2781,Blauen,( ),( ),( )
+2002,2782,Brislach,5,2400,330
+2002,2784,Dittingen,,,
+2002,2785,Duggingen,( ),( ),( )
+2002,2786,Grellingen,12,6700,353
+2002,2787,Laufen,15,11600,375
+2002,2788,Liesberg,11,6900,203
+2002,2789,Nenzlingen,5,2600,418
+2002,2790,Roggenburg,( ),( ),( )
+2002,2791,Röschenz,7,4900,388
+2002,2792,Wahlen,3,1300,303
+2002,2821,Arisdorf,( ),( ),( )
+2002,2822,Augst,( ),( ),( )
+2002,2823,Bubendorf,10,5000,525
+2002,2824,Frenkendorf,13,5100,679
+2002,2825,Füllinsdorf,4,2300,565
+2002,2826,Giebenach,4,1300,487
+2002,2827,Hersberg,( ),( ),( )
+2002,2828,Lausen,4,2200,485
+2002,2829,Liestal,8,5900,537
+2002,2830,Lupsingen,( ),( ),( )
+2002,2831,Pratteln,8,3500,637
+2002,2832,Ramlinsburg,,,
+2002,2833,Seltisberg,4,2800,598
+2002,2841,Anwil,4,3300,306
+2002,2842,Böckten,6,3100,432
+2002,2843,Buckten,( ),( ),( )
+2002,2844,Buus,5,2600,330
+2002,2845,Diepflingen,4,2500,353
+2002,2846,Gelterkinden,5,2200,493
+2002,2847,Häfelfingen,( ),( ),( )
+2002,2848,Hemmiken,,,
+2002,2849,Itingen,7,3400,466
+2002,2850,Känerkinden,,,
+2002,2852,Läufelfingen,4,3700,210
+2002,2853,Maisprach,,,
+2002,2854,Nusshof,,,
+2002,2855,Oltingen,,,
+2002,2856,Ormalingen,5,3600,425
+2002,2858,Rothenfluh,( ),( ),( )
+2002,2859,Rümlingen,3,1600,207
+2002,2860,Rünenberg,3,4100,479
+2002,2861,Sissach,9,5100,559
+2002,2862,Tecknau,,,
+2002,2863,Tenniken,,,
+2002,2864,Thürnen,4,1900,406
+2002,2865,Wenslingen,( ),( ),( )
+2002,2866,Wintersingen,( ),( ),( )
+2002,2867,Wittinsburg,4,2800,331
+2002,2881,Arboldswil,3,2000,271
+2002,2882,Bennwil,( ),( ),( )
+2002,2883,Bretzwil,( ),( ),( )
+2002,2884,Diegten,( ),( ),( )
+2002,2885,Eptingen,( ),( ),( )
+2002,2886,Hölstein,10,6800,320
+2002,2887,Lampenberg,8,4800,266
+2002,2888,Langenbruck,,,
+2002,2889,Lauwil,,,
+2002,2890,Liedertswil,,,
+2002,2891,Niederdorf,( ),( ),( )
+2002,2893,Reigoldswil,3,1500,305
+2002,2894,Titterten,( ),( ),( )
+2002,2895,Waldenburg,,,
+2003,2762,Allschwil,20,7600,876
+2003,2763,Arlesheim,7,3900,952
+2003,2765,Binningen,12,6500,981
+2003,2766,Birsfelden,( ),( ),( )
+2003,2767,Bottmingen,5,4800,937
+2003,2768,Ettingen,12,5000,707
+2003,2769,Münchenstein,26,7800,634
+2003,2770,Muttenz,8,4100,894
+2003,2772,Pfeffingen,4,2400,722
+2003,2774,Schönenbuch,( ),( ),( )
+2003,2775,Therwil,14,10500,872
+2003,2781,Blauen,,,
+2003,2782,Brislach,6,3100,310
+2003,2784,Dittingen,,,
+2003,2785,Duggingen,7,3400,560
+2003,2786,Grellingen,10,5400,372
+2003,2787,Laufen,20,11600,443
+2003,2788,Liesberg,4,2700,156
+2003,2789,Nenzlingen,4,1900,490
+2003,2790,Roggenburg,,,
+2003,2791,Röschenz,8,2300,495
+2003,2792,Wahlen,3,3200,378
+2003,2821,Arisdorf,6,2400,352
+2003,2822,Augst,,,
+2003,2823,Bubendorf,12,6000,488
+2003,2824,Frenkendorf,7,3500,616
+2003,2825,Füllinsdorf,5,2600,591
+2003,2826,Giebenach,,,
+2003,2827,Hersberg,,,
+2003,2828,Lausen,5,3300,556
+2003,2829,Liestal,16,12100,554
+2003,2830,Lupsingen,3,2500,455
+2003,2831,Pratteln,14,5800,646
+2003,2832,Ramlinsburg,5,2400,451
+2003,2833,Seltisberg,8,5300,567
+2003,2841,Anwil,( ),( ),( )
+2003,2842,Böckten,( ),( ),( )
+2003,2843,Buckten,,,
+2003,2844,Buus,( ),( ),( )
+2003,2845,Diepflingen,,,
+2003,2846,Gelterkinden,6,2800,515
+2003,2847,Häfelfingen,,,
+2003,2848,Hemmiken,,,
+2003,2849,Itingen,4,1700,539
+2003,2850,Känerkinden,( ),( ),( )
+2003,2852,Läufelfingen,( ),( ),( )
+2003,2853,Maisprach,( ),( ),( )
+2003,2854,Nusshof,( ),( ),( )
+2003,2855,Oltingen,,,
+2003,2856,Ormalingen,,,
+2003,2858,Rothenfluh,4,3000,241
+2003,2859,Rümlingen,( ),( ),( )
+2003,2860,Rünenberg,( ),( ),( )
+2003,2861,Sissach,15,10400,647
+2003,2862,Tecknau,,,
+2003,2863,Tenniken,5,2600,378
+2003,2864,Thürnen,10,6100,392
+2003,2865,Wenslingen,4,2000,315
+2003,2866,Wintersingen,4,2300,152
+2003,2867,Wittinsburg,6,3400,371
+2003,2881,Arboldswil,4,2500,321
+2003,2882,Bennwil,( ),( ),( )
+2003,2883,Bretzwil,( ),( ),( )
+2003,2884,Diegten,14,6000,304
+2003,2885,Eptingen,( ),( ),( )
+2003,2886,Hölstein,8,3000,287
+2003,2887,Lampenberg,( ),( ),( )
+2003,2888,Langenbruck,( ),( ),( )
+2003,2889,Lauwil,( ),( ),( )
+2003,2890,Liedertswil,( ),( ),( )
+2003,2891,Niederdorf,5,2800,334
+2003,2893,Reigoldswil,5,2200,312
+2003,2894,Titterten,3,1200,279
+2003,2895,Waldenburg,3,1100,233
+2004,2762,Allschwil,13,3600,877
+2004,2763,Arlesheim,6,4400,715
+2004,2765,Binningen,21,8900,1168
+2004,2766,Birsfelden,,,
+2004,2767,Bottmingen,5,2900,1179
+2004,2768,Ettingen,6,1600,666
+2004,2769,Münchenstein,13,4300,583
+2004,2770,Muttenz,7,3200,941
+2004,2772,Pfeffingen,( ),( ),( )
+2004,2774,Schönenbuch,4,2100,831
+2004,2775,Therwil,30,13100,934
+2004,2781,Blauen,( ),( ),( )
+2004,2782,Brislach,9,5300,326
+2004,2784,Dittingen,( ),( ),( )
+2004,2785,Duggingen,18,10700,412
+2004,2786,Grellingen,12,6300,322
+2004,2787,Laufen,20,9500,492
+2004,2788,Liesberg,11,4500,201
+2004,2789,Nenzlingen,3,1700,374
+2004,2790,Roggenburg,,,
+2004,2791,Röschenz,19,10600,453
+2004,2792,Wahlen,6,5100,439
+2004,2821,Arisdorf,3,1700,426
+2004,2822,Augst,( ),( ),( )
+2004,2823,Bubendorf,12,5400,576
+2004,2824,Frenkendorf,12,4400,702
+2004,2825,Füllinsdorf,12,6700,538
+2004,2826,Giebenach,( ),( ),( )
+2004,2827,Hersberg,4,3500,499
+2004,2828,Lausen,29,10400,543
+2004,2829,Liestal,22,14800,610
+2004,2830,Lupsingen,7,3600,503
+2004,2831,Pratteln,39,10100,682
+2004,2832,Ramlinsburg,4,2200,432
+2004,2833,Seltisberg,7,2200,569
+2004,2841,Anwil,5,2900,312
+2004,2842,Böckten,6,4400,446
+2004,2843,Buckten,( ),( ),( )
+2004,2844,Buus,3,1500,373
+2004,2845,Diepflingen,5,1600,368
+2004,2846,Gelterkinden,4,3800,394
+2004,2847,Häfelfingen,( ),( ),( )
+2004,2848,Hemmiken,,,
+2004,2849,Itingen,4,2700,545
+2004,2850,Känerkinden,( ),( ),( )
+2004,2852,Läufelfingen,4,3200,257
+2004,2853,Maisprach,3,2000,316
+2004,2854,Nusshof,( ),( ),( )
+2004,2855,Oltingen,3,1900,282
+2004,2856,Ormalingen,5,5400,345
+2004,2858,Rothenfluh,4,3000,257
+2004,2859,Rümlingen,4,2600,173
+2004,2860,Rünenberg,( ),( ),( )
+2004,2861,Sissach,11,7400,613
+2004,2862,Tecknau,,,
+2004,2863,Tenniken,4,1600,365
+2004,2864,Thürnen,( ),( ),( )
+2004,2865,Wenslingen,( ),( ),( )
+2004,2866,Wintersingen,,,
+2004,2867,Wittinsburg,( ),( ),( )
+2004,2881,Arboldswil,3,2300,306
+2004,2882,Bennwil,( ),( ),( )
+2004,2883,Bretzwil,( ),( ),( )
+2004,2884,Diegten,10,4300,296
+2004,2885,Eptingen,( ),( ),( )
+2004,2886,Hölstein,( ),( ),( )
+2004,2887,Lampenberg,4,2200,268
+2004,2888,Langenbruck,3,4600,126
+2004,2889,Lauwil,( ),( ),( )
+2004,2890,Liedertswil,,,
+2004,2891,Niederdorf,( ),( ),( )
+2004,2893,Reigoldswil,5,1000,250
+2004,2894,Titterten,,,
+2004,2895,Waldenburg,,,
+2005,2762,Allschwil,( ),( ),( )
+2005,2763,Arlesheim,5,2700,1045
+2005,2765,Binningen,6,2500,1264
+2005,2766,Birsfelden,,,
+2005,2767,Bottmingen,,,
+2005,2768,Ettingen,( ),( ),( )
+2005,2769,Münchenstein,10,5400,431
+2005,2770,Muttenz,3,2200,867
+2005,2772,Pfeffingen,( ),( ),( )
+2005,2774,Schönenbuch,4,1900,794
+2005,2775,Therwil,8,2300,923
+2005,2781,Blauen,( ),( ),( )
+2005,2782,Brislach,11,6500,291
+2005,2784,Dittingen,4,2400,228
+2005,2785,Duggingen,8,4800,450
+2005,2786,Grellingen,6,4700,319
+2005,2787,Laufen,13,7800,504
+2005,2788,Liesberg,5,3000,260
+2005,2789,Nenzlingen,( ),( ),( )
+2005,2790,Roggenburg,,,
+2005,2791,Röschenz,5,2800,479
+2005,2792,Wahlen,3,1400,366
+2005,2821,Arisdorf,7,3300,484
+2005,2822,Augst,,,
+2005,2823,Bubendorf,( ),( ),( )
+2005,2824,Frenkendorf,10,3700,728
+2005,2825,Füllinsdorf,4,2800,535
+2005,2826,Giebenach,8,3400,348
+2005,2827,Hersberg,3,2200,520
+2005,2828,Lausen,( ),( ),( )
+2005,2829,Liestal,23,12600,626
+2005,2830,Lupsingen,6,4600,441
+2005,2831,Pratteln,22,6800,652
+2005,2832,Ramlinsburg,( ),( ),( )
+2005,2833,Seltisberg,,,
+2005,2841,Anwil,( ),( ),( )
+2005,2842,Böckten,6,2600,490
+2005,2843,Buckten,( ),( ),( )
+2005,2844,Buus,( ),( ),( )
+2005,2845,Diepflingen,( ),( ),( )
+2005,2846,Gelterkinden,7,4400,426
+2005,2847,Häfelfingen,( ),( ),( )
+2005,2848,Hemmiken,( ),( ),( )
+2005,2849,Itingen,8,3200,512
+2005,2850,Känerkinden,,,
+2005,2852,Läufelfingen,( ),( ),( )
+2005,2853,Maisprach,3,1300,550
+2005,2854,Nusshof,( ),( ),( )
+2005,2855,Oltingen,,,
+2005,2856,Ormalingen,11,7100,394
+2005,2858,Rothenfluh,( ),( ),( )
+2005,2859,Rümlingen,,,
+2005,2860,Rünenberg,,,
+2005,2861,Sissach,6,5000,606
+2005,2862,Tecknau,( ),( ),( )
+2005,2863,Tenniken,,,
+2005,2864,Thürnen,3,2900,402
+2005,2865,Wenslingen,( ),( ),( )
+2005,2866,Wintersingen,,,
+2005,2867,Wittinsburg,( ),( ),( )
+2005,2881,Arboldswil,( ),( ),( )
+2005,2882,Bennwil,( ),( ),( )
+2005,2883,Bretzwil,( ),( ),( )
+2005,2884,Diegten,5,1800,365
+2005,2885,Eptingen,,,
+2005,2886,Hölstein,21,7600,335
+2005,2887,Lampenberg,( ),( ),( )
+2005,2888,Langenbruck,,,
+2005,2889,Lauwil,( ),( ),( )
+2005,2890,Liedertswil,( ),( ),( )
+2005,2891,Niederdorf,( ),( ),( )
+2005,2893,Reigoldswil,3,2300,185
+2005,2894,Titterten,( ),( ),( )
+2005,2895,Waldenburg,,,
+2006,2762,Allschwil,( ),( ),( )
+2006,2763,Arlesheim,7,3400,1021
+2006,2765,Binningen,8,4000,1124
+2006,2766,Birsfelden,6,1400,983
+2006,2767,Bottmingen,( ),( ),( )
+2006,2768,Ettingen,,,
+2006,2769,Münchenstein,8,4200,713
+2006,2770,Muttenz,9,5700,962
+2006,2772,Pfeffingen,( ),( ),( )
+2006,2774,Schönenbuch,,,
+2006,2775,Therwil,9,4600,942
+2006,2781,Blauen,5,3800,332
+2006,2782,Brislach,12,7400,295
+2006,2784,Dittingen,9,5400,209
+2006,2785,Duggingen,27,14600,450
+2006,2786,Grellingen,7,4200,320
+2006,2787,Laufen,10,3400,393
+2006,2788,Liesberg,5,3000,237
+2006,2789,Nenzlingen,( ),( ),( )
+2006,2790,Roggenburg,,,
+2006,2791,Röschenz,18,11300,457
+2006,2792,Wahlen,3,1700,364
+2006,2821,Arisdorf,8,5500,455
+2006,2822,Augst,( ),( ),( )
+2006,2823,Bubendorf,8,2600,609
+2006,2824,Frenkendorf,11,6100,607
+2006,2825,Füllinsdorf,9,7100,586
+2006,2826,Giebenach,( ),( ),( )
+2006,2827,Hersberg,3,1500,523
+2006,2828,Lausen,16,4500,599
+2006,2829,Liestal,21,10700,558
+2006,2830,Lupsingen,12,8100,507
+2006,2831,Pratteln,25,8600,625
+2006,2832,Ramlinsburg,( ),( ),( )
+2006,2833,Seltisberg,( ),( ),( )
+2006,2841,Anwil,6,4600,299
+2006,2842,Böckten,( ),( ),( )
+2006,2843,Buckten,3,1800,222
+2006,2844,Buus,,,
+2006,2845,Diepflingen,( ),( ),( )
+2006,2846,Gelterkinden,6,3400,459
+2006,2847,Häfelfingen,,,
+2006,2848,Hemmiken,( ),( ),( )
+2006,2849,Itingen,7,2100,467
+2006,2850,Känerkinden,,,
+2006,2852,Läufelfingen,7,4500,250
+2006,2853,Maisprach,4,2300,448
+2006,2854,Nusshof,,,
+2006,2855,Oltingen,,,
+2006,2856,Ormalingen,12,6800,434
+2006,2858,Rothenfluh,( ),( ),( )
+2006,2859,Rümlingen,,,
+2006,2860,Rünenberg,( ),( ),( )
+2006,2861,Sissach,8,7200,702
+2006,2862,Tecknau,,,
+2006,2863,Tenniken,,,
+2006,2864,Thürnen,( ),( ),( )
+2006,2865,Wenslingen,6,3200,322
+2006,2866,Wintersingen,,,
+2006,2867,Wittinsburg,( ),( ),( )
+2006,2881,Arboldswil,( ),( ),( )
+2006,2882,Bennwil,( ),( ),( )
+2006,2883,Bretzwil,3,1400,207
+2006,2884,Diegten,10,3800,346
+2006,2885,Eptingen,,,
+2006,2886,Hölstein,5,3700,397
+2006,2887,Lampenberg,,,
+2006,2888,Langenbruck,( ),( ),( )
+2006,2889,Lauwil,7,5000,236
+2006,2890,Liedertswil,( ),( ),( )
+2006,2891,Niederdorf,5,3000,389
+2006,2893,Reigoldswil,5,3100,314
+2006,2894,Titterten,,,
+2006,2895,Waldenburg,( ),( ),( )
+2007,2762,Allschwil,3,3200,792
+2007,2763,Arlesheim,13,8800,1042
+2007,2765,Binningen,6,5300,1265
+2007,2766,Birsfelden,( ),( ),( )
+2007,2767,Bottmingen,17,7200,872
+2007,2768,Ettingen,( ),( ),( )
+2007,2769,Münchenstein,9,3300,713
+2007,2770,Muttenz,5,3100,1179
+2007,2772,Pfeffingen,3,2600,784
+2007,2774,Schönenbuch,,,
+2007,2775,Therwil,3,2200,705
+2007,2781,Blauen,( ),( ),( )
+2007,2782,Brislach,10,4500,357
+2007,2784,Dittingen,3,2200,259
+2007,2785,Duggingen,12,7400,479
+2007,2786,Grellingen,7,3300,308
+2007,2787,Laufen,15,6300,329
+2007,2788,Liesberg,3,2300,235
+2007,2789,Nenzlingen,3,2200,361
+2007,2790,Roggenburg,,,
+2007,2791,Röschenz,10,5800,387
+2007,2792,Wahlen,4,1900,377
+2007,2821,Arisdorf,6,2500,513
+2007,2822,Augst,,,
+2007,2823,Bubendorf,7,3200,575
+2007,2824,Frenkendorf,3,2800,711
+2007,2825,Füllinsdorf,7,5300,558
+2007,2826,Giebenach,4,3300,460
+2007,2827,Hersberg,4,2100,506
+2007,2828,Lausen,5,3100,696
+2007,2829,Liestal,9,4800,356
+2007,2830,Lupsingen,( ),( ),( )
+2007,2831,Pratteln,8,4000,581
+2007,2832,Ramlinsburg,( ),( ),( )
+2007,2833,Seltisberg,7,4900,662
+2007,2841,Anwil,6,4000,321
+2007,2842,Böckten,( ),( ),( )
+2007,2843,Buckten,,,
+2007,2844,Buus,( ),( ),( )
+2007,2845,Diepflingen,( ),( ),( )
+2007,2846,Gelterkinden,4,2500,522
+2007,2847,Häfelfingen,( ),( ),( )
+2007,2848,Hemmiken,( ),( ),( )
+2007,2849,Itingen,4,2100,543
+2007,2850,Känerkinden,5,3400,374
+2007,2852,Läufelfingen,( ),( ),( )
+2007,2853,Maisprach,4,3100,478
+2007,2854,Nusshof,9,4600,392
+2007,2855,Oltingen,,,
+2007,2856,Ormalingen,( ),( ),( )
+2007,2858,Rothenfluh,( ),( ),( )
+2007,2859,Rümlingen,4,2400,257
+2007,2860,Rünenberg,,,
+2007,2861,Sissach,6,4400,676
+2007,2862,Tecknau,,,
+2007,2863,Tenniken,,,
+2007,2864,Thürnen,15,5400,289
+2007,2865,Wenslingen,( ),( ),( )
+2007,2866,Wintersingen,,,
+2007,2867,Wittinsburg,,,
+2007,2881,Arboldswil,6,3000,277
+2007,2882,Bennwil,( ),( ),( )
+2007,2883,Bretzwil,( ),( ),( )
+2007,2884,Diegten,9,5000,363
+2007,2885,Eptingen,,,
+2007,2886,Hölstein,4,1500,376
+2007,2887,Lampenberg,3,1800,401
+2007,2888,Langenbruck,,,
+2007,2889,Lauwil,( ),( ),( )
+2007,2890,Liedertswil,3,1800,135
+2007,2891,Niederdorf,,,
+2007,2893,Reigoldswil,( ),( ),( )
+2007,2894,Titterten,( ),( ),( )
+2007,2895,Waldenburg,( ),( ),( )
+2008,2762,Allschwil,( ),( ),( )
+2008,2763,Arlesheim,( ),( ),( )
+2008,2765,Binningen,( ),( ),( )
+2008,2766,Birsfelden,,,
+2008,2767,Bottmingen,4,1100,688
+2008,2768,Ettingen,3,1100,966
+2008,2769,Münchenstein,11,4100,797
+2008,2770,Muttenz,8,3200,1137
+2008,2772,Pfeffingen,( ),( ),( )
+2008,2774,Schönenbuch,( ),( ),( )
+2008,2775,Therwil,( ),( ),( )
+2008,2781,Blauen,( ),( ),( )
+2008,2782,Brislach,10,4600,361
+2008,2784,Dittingen,( ),( ),( )
+2008,2785,Duggingen,5,3700,486
+2008,2786,Grellingen,( ),( ),( )
+2008,2787,Laufen,14,5800,367
+2008,2788,Liesberg,3,1300,198
+2008,2789,Nenzlingen,( ),( ),( )
+2008,2790,Roggenburg,( ),( ),( )
+2008,2791,Röschenz,6,2800,442
+2008,2792,Wahlen,( ),( ),( )
+2008,2821,Arisdorf,( ),( ),( )
+2008,2822,Augst,,,
+2008,2823,Bubendorf,6,3200,650
+2008,2824,Frenkendorf,,,
+2008,2825,Füllinsdorf,( ),( ),( )
+2008,2826,Giebenach,4,1200,557
+2008,2827,Hersberg,( ),( ),( )
+2008,2828,Lausen,,,
+2008,2829,Liestal,5,1700,541
+2008,2830,Lupsingen,( ),( ),( )
+2008,2831,Pratteln,9,2800,603
+2008,2832,Ramlinsburg,( ),( ),( )
+2008,2833,Seltisberg,( ),( ),( )
+2008,2841,Anwil,( ),( ),( )
+2008,2842,Böckten,( ),( ),( )
+2008,2843,Buckten,4,1700,261
+2008,2844,Buus,( ),( ),( )
+2008,2845,Diepflingen,4,2400,357
+2008,2846,Gelterkinden,4,3200,596
+2008,2847,Häfelfingen,( ),( ),( )
+2008,2848,Hemmiken,( ),( ),( )
+2008,2849,Itingen,( ),( ),( )
+2008,2850,Känerkinden,4,3700,373
+2008,2852,Läufelfingen,( ),( ),( )
+2008,2853,Maisprach,4,2100,517
+2008,2854,Nusshof,( ),( ),( )
+2008,2855,Oltingen,( ),( ),( )
+2008,2856,Ormalingen,4,2000,385
+2008,2858,Rothenfluh,( ),( ),( )
+2008,2859,Rümlingen,,,
+2008,2860,Rünenberg,,,
+2008,2861,Sissach,7,5400,634
+2008,2862,Tecknau,( ),( ),( )
+2008,2863,Tenniken,( ),( ),( )
+2008,2864,Thürnen,,,
+2008,2865,Wenslingen,( ),( ),( )
+2008,2866,Wintersingen,,,
+2008,2867,Wittinsburg,( ),( ),( )
+2008,2881,Arboldswil,4,2300,333
+2008,2882,Bennwil,4,2400,356
+2008,2883,Bretzwil,,,
+2008,2884,Diegten,3,3000,329
+2008,2885,Eptingen,( ),( ),( )
+2008,2886,Hölstein,3,1800,380
+2008,2887,Lampenberg,( ),( ),( )
+2008,2888,Langenbruck,,,
+2008,2889,Lauwil,,,
+2008,2890,Liedertswil,,,
+2008,2891,Niederdorf,( ),( ),( )
+2008,2893,Reigoldswil,4,2300,319
+2008,2894,Titterten,( ),( ),( )
+2008,2895,Waldenburg,( ),( ),( )
+2009,2762,Allschwil,18,3600,1062
+2009,2763,Arlesheim,3,1000,1200
+2009,2765,Binningen,4,5000,1445
+2009,2766,Birsfelden,,,
+2009,2767,Bottmingen,( ),( ),( )
+2009,2768,Ettingen,3,2100,988
+2009,2769,Münchenstein,6,2800,626
+2009,2770,Muttenz,11,6100,1170
+2009,2772,Pfeffingen,( ),( ),( )
+2009,2774,Schönenbuch,4,1800,845
+2009,2775,Therwil,10,4400,1131
+2009,2781,Blauen,,,
+2009,2782,Brislach,9,3800,371
+2009,2784,Dittingen,4,3400,266
+2009,2785,Duggingen,4,1900,511
+2009,2786,Grellingen,5,4900,364
+2009,2787,Laufen,5,5300,499
+2009,2788,Liesberg,6,2500,211
+2009,2789,Nenzlingen,( ),( ),( )
+2009,2790,Roggenburg,( ),( ),( )
+2009,2791,Röschenz,( ),( ),( )
+2009,2792,Wahlen,( ),( ),( )
+2009,2821,Arisdorf,3,1600,428
+2009,2822,Augst,,,
+2009,2823,Bubendorf,4,1900,687
+2009,2824,Frenkendorf,3,1700,784
+2009,2825,Füllinsdorf,( ),( ),( )
+2009,2826,Giebenach,( ),( ),( )
+2009,2827,Hersberg,( ),( ),( )
+2009,2828,Lausen,( ),( ),( )
+2009,2829,Liestal,5,1300,637
+2009,2830,Lupsingen,3,2000,528
+2009,2831,Pratteln,22,7200,589
+2009,2832,Ramlinsburg,5,2900,464
+2009,2833,Seltisberg,,,
+2009,2841,Anwil,3,1900,350
+2009,2842,Böckten,3,1000,469
+2009,2843,Buckten,,,
+2009,2844,Buus,3,2800,441
+2009,2845,Diepflingen,( ),( ),( )
+2009,2846,Gelterkinden,14,9800,555
+2009,2847,Häfelfingen,( ),( ),( )
+2009,2848,Hemmiken,,,
+2009,2849,Itingen,3,1500,531
+2009,2850,Känerkinden,( ),( ),( )
+2009,2852,Läufelfingen,( ),( ),( )
+2009,2853,Maisprach,( ),( ),( )
+2009,2854,Nusshof,( ),( ),( )
+2009,2855,Oltingen,4,3500,286
+2009,2856,Ormalingen,3,1500,399
+2009,2858,Rothenfluh,( ),( ),( )
+2009,2859,Rümlingen,3,3200,198
+2009,2860,Rünenberg,( ),( ),( )
+2009,2861,Sissach,3,1200,600
+2009,2862,Tecknau,,,
+2009,2863,Tenniken,5,2500,413
+2009,2864,Thürnen,( ),( ),( )
+2009,2865,Wenslingen,,,
+2009,2866,Wintersingen,( ),( ),( )
+2009,2867,Wittinsburg,( ),( ),( )
+2009,2881,Arboldswil,4,3400,377
+2009,2882,Bennwil,( ),( ),( )
+2009,2883,Bretzwil,( ),( ),( )
+2009,2884,Diegten,( ),( ),( )
+2009,2885,Eptingen,( ),( ),( )
+2009,2886,Hölstein,4,3900,331
+2009,2887,Lampenberg,,,
+2009,2888,Langenbruck,( ),( ),( )
+2009,2889,Lauwil,3,2200,250
+2009,2890,Liedertswil,( ),( ),( )
+2009,2891,Niederdorf,5,3800,322
+2009,2893,Reigoldswil,3,1500,399
+2009,2894,Titterten,( ),( ),( )
+2009,2895,Waldenburg,,,
+2010,2762,Allschwil,35,9700,1123
+2010,2763,Arlesheim,5,6600,1096
+2010,2765,Binningen,6,3000,1432
+2010,2766,Birsfelden,,,
+2010,2767,Bottmingen,6,4600,1596
+2010,2768,Ettingen,3,1100,953
+2010,2769,Münchenstein,7,3000,849
+2010,2770,Muttenz,22,10700,1127
+2010,2772,Pfeffingen,,,
+2010,2774,Schönenbuch,3,2600,938
+2010,2775,Therwil,9,4300,1261
+2010,2781,Blauen,3,1400,383
+2010,2782,Brislach,10,4400,365
+2010,2784,Dittingen,( ),( ),( )
+2010,2785,Duggingen,4,3000,339
+2010,2786,Grellingen,( ),( ),( )
+2010,2787,Laufen,6,2100,494
+2010,2788,Liesberg,( ),( ),( )
+2010,2789,Nenzlingen,( ),( ),( )
+2010,2790,Roggenburg,,,
+2010,2791,Röschenz,8,4700,489
+2010,2792,Wahlen,4,2900,400
+2010,2821,Arisdorf,9,3700,534
+2010,2822,Augst,( ),( ),( )
+2010,2823,Bubendorf,( ),( ),( )
+2010,2824,Frenkendorf,14,7100,779
+2010,2825,Füllinsdorf,( ),( ),( )
+2010,2826,Giebenach,3,2100,710
+2010,2827,Hersberg,( ),( ),( )
+2010,2828,Lausen,,,
+2010,2829,Liestal,22,8200,729
+2010,2830,Lupsingen,4,2500,556
+2010,2831,Pratteln,6,1900,658
+2010,2832,Ramlinsburg,( ),( ),( )
+2010,2833,Seltisberg,4,2200,608
+2010,2841,Anwil,5,3500,319
+2010,2842,Böckten,( ),( ),( )
+2010,2843,Buckten,( ),( ),( )
+2010,2844,Buus,( ),( ),( )
+2010,2845,Diepflingen,11,6000,443
+2010,2846,Gelterkinden,5,2800,541
+2010,2847,Häfelfingen,( ),( ),( )
+2010,2848,Hemmiken,( ),( ),( )
+2010,2849,Itingen,24,7600,560
+2010,2850,Känerkinden,,,
+2010,2852,Läufelfingen,3,2200,256
+2010,2853,Maisprach,( ),( ),( )
+2010,2854,Nusshof,5,2600,387
+2010,2855,Oltingen,( ),( ),( )
+2010,2856,Ormalingen,4,2000,437
+2010,2858,Rothenfluh,4,2400,312
+2010,2859,Rümlingen,4,2900,192
+2010,2860,Rünenberg,,,
+2010,2861,Sissach,6,1800,687
+2010,2862,Tecknau,4,1900,295
+2010,2863,Tenniken,,,
+2010,2864,Thürnen,( ),( ),( )
+2010,2865,Wenslingen,( ),( ),( )
+2010,2866,Wintersingen,3,1400,410
+2010,2867,Wittinsburg,( ),( ),( )
+2010,2881,Arboldswil,6,3600,384
+2010,2882,Bennwil,( ),( ),( )
+2010,2883,Bretzwil,( ),( ),( )
+2010,2884,Diegten,( ),( ),( )
+2010,2885,Eptingen,( ),( ),( )
+2010,2886,Hölstein,11,7000,445
+2010,2887,Lampenberg,,,
+2010,2888,Langenbruck,,,
+2010,2889,Lauwil,,,
+2010,2890,Liedertswil,,,
+2010,2891,Niederdorf,( ),( ),( )
+2010,2893,Reigoldswil,8,5300,352
+2010,2894,Titterten,( ),( ),( )
+2010,2895,Waldenburg,3,2000,189
+2011,2762,Allschwil,37,9100,1162
+2011,2763,Arlesheim,26,10000,1267
+2011,2765,Binningen,16,4800,1569
+2011,2766,Birsfelden,( ),( ),( )
+2011,2767,Bottmingen,21,6400,1387
+2011,2768,Ettingen,( ),( ),( )
+2011,2769,Münchenstein,( ),( ),( )
+2011,2770,Muttenz,4,2900,1150
+2011,2772,Pfeffingen,11,4700,1034
+2011,2774,Schönenbuch,,,
+2011,2775,Therwil,5,5400,1268
+2011,2781,Blauen,,,
+2011,2782,Brislach,4,2300,397
+2011,2784,Dittingen,,,
+2011,2785,Duggingen,4,1900,601
+2011,2786,Grellingen,7,3400,413
+2011,2787,Laufen,12,7300,576
+2011,2788,Liesberg,,,
+2011,2789,Nenzlingen,,,
+2011,2790,Roggenburg,( ),( ),( )
+2011,2791,Röschenz,7,3900,524
+2011,2792,Wahlen,8,4700,409
+2011,2821,Arisdorf,7,1700,622
+2011,2822,Augst,,,
+2011,2823,Bubendorf,7,2000,572
+2011,2824,Frenkendorf,6,3600,754
+2011,2825,Füllinsdorf,6,3100,577
+2011,2826,Giebenach,( ),( ),( )
+2011,2827,Hersberg,5,1900,492
+2011,2828,Lausen,5,3400,629
+2011,2829,Liestal,18,10200,784
+2011,2830,Lupsingen,3,4800,581
+2011,2831,Pratteln,9,5900,599
+2011,2832,Ramlinsburg,( ),( ),( )
+2011,2833,Seltisberg,9,5500,661
+2011,2841,Anwil,,,
+2011,2842,Böckten,( ),( ),( )
+2011,2843,Buckten,( ),( ),( )
+2011,2844,Buus,5,1600,428
+2011,2845,Diepflingen,( ),( ),( )
+2011,2846,Gelterkinden,10,7200,625
+2011,2847,Häfelfingen,( ),( ),( )
+2011,2848,Hemmiken,( ),( ),( )
+2011,2849,Itingen,6,3400,579
+2011,2850,Känerkinden,3,1300,367
+2011,2852,Läufelfingen,( ),( ),( )
+2011,2853,Maisprach,,,
+2011,2854,Nusshof,5,2700,410
+2011,2855,Oltingen,( ),( ),( )
+2011,2856,Ormalingen,4,2200,446
+2011,2858,Rothenfluh,( ),( ),( )
+2011,2859,Rümlingen,,,
+2011,2860,Rünenberg,( ),( ),( )
+2011,2861,Sissach,5,3100,650
+2011,2862,Tecknau,6,2400,353
+2011,2863,Tenniken,( ),( ),( )
+2011,2864,Thürnen,,,
+2011,2865,Wenslingen,,,
+2011,2866,Wintersingen,,,
+2011,2867,Wittinsburg,,,
+2011,2881,Arboldswil,( ),( ),( )
+2011,2882,Bennwil,( ),( ),( )
+2011,2883,Bretzwil,3,1900,251
+2011,2884,Diegten,4,3000,304
+2011,2885,Eptingen,( ),( ),( )
+2011,2886,Hölstein,6,4400,493
+2011,2887,Lampenberg,3,2200,309
+2011,2888,Langenbruck,( ),( ),( )
+2011,2889,Lauwil,,,
+2011,2890,Liedertswil,( ),( ),( )
+2011,2891,Niederdorf,( ),( ),( )
+2011,2893,Reigoldswil,( ),( ),( )
+2011,2894,Titterten,( ),( ),( )
+2011,2895,Waldenburg,( ),( ),( )
+2012,2762,Allschwil,28,7800,1287
+2012,2763,Arlesheim,15,5900,1388
+2012,2765,Binningen,13,8400,1985
+2012,2766,Birsfelden,3,1200,1379
+2012,2767,Bottmingen,19,5600,1466
+2012,2768,Ettingen,7,7600,1141
+2012,2769,Münchenstein,7,3200,808
+2012,2770,Muttenz,17,11100,1273
+2012,2772,Pfeffingen,13,6100,1065
+2012,2774,Schönenbuch,3,700,838
+2012,2775,Therwil,11,2000,1408
+2012,2781,Blauen,( ),( ),( )
+2012,2782,Brislach,6,1800,340
+2012,2784,Dittingen,6,2900,249
+2012,2785,Duggingen,4,3400,603
+2012,2786,Grellingen,7,5900,388
+2012,2787,Laufen,6,2500,538
+2012,2788,Liesberg,,,
+2012,2789,Nenzlingen,,,
+2012,2790,Roggenburg,,,
+2012,2791,Röschenz,( ),( ),( )
+2012,2792,Wahlen,5,3400,396
+2012,2821,Arisdorf,( ),( ),( )
+2012,2822,Augst,( ),( ),( )
+2012,2823,Bubendorf,7,2100,738
+2012,2824,Frenkendorf,8,3800,786
+2012,2825,Füllinsdorf,4,2200,729
+2012,2826,Giebenach,,,
+2012,2827,Hersberg,,,
+2012,2828,Lausen,16,4800,529
+2012,2829,Liestal,20,7500,810
+2012,2830,Lupsingen,5,2600,662
+2012,2831,Pratteln,3,2100,964
+2012,2832,Ramlinsburg,4,2800,572
+2012,2833,Seltisberg,( ),( ),( )
+2012,2841,Anwil,( ),( ),( )
+2012,2842,Böckten,( ),( ),( )
+2012,2843,Buckten,( ),( ),( )
+2012,2844,Buus,( ),( ),( )
+2012,2845,Diepflingen,4,1800,438
+2012,2846,Gelterkinden,5,2600,582
+2012,2847,Häfelfingen,( ),( ),( )
+2012,2848,Hemmiken,,,
+2012,2849,Itingen,3,2200,633
+2012,2850,Känerkinden,( ),( ),( )
+2012,2852,Läufelfingen,4,1300,248
+2012,2853,Maisprach,( ),( ),( )
+2012,2854,Nusshof,( ),( ),( )
+2012,2855,Oltingen,( ),( ),( )
+2012,2856,Ormalingen,3,2600,491
+2012,2858,Rothenfluh,( ),( ),( )
+2012,2859,Rümlingen,( ),( ),( )
+2012,2860,Rünenberg,,,
+2012,2861,Sissach,11,5700,740
+2012,2862,Tecknau,3,2400,313
+2012,2863,Tenniken,( ),( ),( )
+2012,2864,Thürnen,4,2100,460
+2012,2865,Wenslingen,( ),( ),( )
+2012,2866,Wintersingen,,,
+2012,2867,Wittinsburg,,,
+2012,2881,Arboldswil,( ),( ),( )
+2012,2882,Bennwil,,,
+2012,2883,Bretzwil,3,2000,175
+2012,2884,Diegten,6,3000,287
+2012,2885,Eptingen,,,
+2012,2886,Hölstein,( ),( ),( )
+2012,2887,Lampenberg,,,
+2012,2888,Langenbruck,( ),( ),( )
+2012,2889,Lauwil,,,
+2012,2890,Liedertswil,,,
+2012,2891,Niederdorf,,,
+2012,2893,Reigoldswil,,,
+2012,2894,Titterten,( ),( ),( )
+2012,2895,Waldenburg,( ),( ),( )
+2013,2762,Allschwil,18,4600,1149
+2013,2763,Arlesheim,9,8300,1617
+2013,2765,Binningen,19,7200,1779
+2013,2766,Birsfelden,( ),( ),( )
+2013,2767,Bottmingen,11,4500,1599
+2013,2768,Ettingen,12,8000,1115
+2013,2769,Münchenstein,3,2100,924
+2013,2770,Muttenz,( ),( ),( )
+2013,2772,Pfeffingen,10,6700,1130
+2013,2774,Schönenbuch,3,1500,926
+2013,2775,Therwil,3,2500,1551
+2013,2781,Blauen,( ),( ),( )
+2013,2782,Brislach,5,2500,354
+2013,2784,Dittingen,,,
+2013,2785,Duggingen,( ),( ),( )
+2013,2786,Grellingen,3,2700,470
+2013,2787,Laufen,6,4600,461
+2013,2788,Liesberg,3,1800,190
+2013,2789,Nenzlingen,,,
+2013,2790,Roggenburg,,,
+2013,2791,Röschenz,( ),( ),( )
+2013,2792,Wahlen,6,4200,369
+2013,2821,Arisdorf,3,1400,398
+2013,2822,Augst,4,2400,734
+2013,2823,Bubendorf,,,
+2013,2824,Frenkendorf,8,6800,946
+2013,2825,Füllinsdorf,,,
+2013,2826,Giebenach,4,1700,589
+2013,2827,Hersberg,,,
+2013,2828,Lausen,( ),( ),( )
+2013,2829,Liestal,10,8300,809
+2013,2830,Lupsingen,4,2200,547
+2013,2831,Pratteln,6,4700,869
+2013,2832,Ramlinsburg,( ),( ),( )
+2013,2833,Seltisberg,( ),( ),( )
+2013,2841,Anwil,3,2000,379
+2013,2842,Böckten,,,
+2013,2843,Buckten,( ),( ),( )
+2013,2844,Buus,4,2900,353
+2013,2845,Diepflingen,( ),( ),( )
+2013,2846,Gelterkinden,8,5300,678
+2013,2847,Häfelfingen,( ),( ),( )
+2013,2848,Hemmiken,,,
+2013,2849,Itingen,7,3500,596
+2013,2850,Känerkinden,8,5700,409
+2013,2852,Läufelfingen,,,
+2013,2853,Maisprach,7,4000,580
+2013,2854,Nusshof,( ),( ),( )
+2013,2855,Oltingen,,,
+2013,2856,Ormalingen,( ),( ),( )
+2013,2858,Rothenfluh,,,
+2013,2859,Rümlingen,,,
+2013,2860,Rünenberg,3,2000,562
+2013,2861,Sissach,8,7000,898
+2013,2862,Tecknau,( ),( ),( )
+2013,2863,Tenniken,,,
+2013,2864,Thürnen,,,
+2013,2865,Wenslingen,,,
+2013,2866,Wintersingen,,,
+2013,2867,Wittinsburg,,,
+2013,2881,Arboldswil,3,2200,496
+2013,2882,Bennwil,3,2900,234
+2013,2883,Bretzwil,( ),( ),( )
+2013,2884,Diegten,3,1600,426
+2013,2885,Eptingen,( ),( ),( )
+2013,2886,Hölstein,,,
+2013,2887,Lampenberg,,,
+2013,2888,Langenbruck,,,
+2013,2889,Lauwil,,,
+2013,2890,Liedertswil,,,
+2013,2891,Niederdorf,10,6000,465
+2013,2893,Reigoldswil,4,2800,459
+2013,2894,Titterten,( ),( ),( )
+2013,2895,Waldenburg,( ),( ),( )
+2014,2762,Allschwil,16,7300,1079
+2014,2763,Arlesheim,5,2200,1252
+2014,2765,Binningen,53,12600,1665
+2014,2766,Birsfelden,( ),( ),( )
+2014,2767,Bottmingen,( ),( ),( )
+2014,2768,Ettingen,17,14200,1241
+2014,2769,Münchenstein,4,2300,1142
+2014,2770,Muttenz,15,6800,1276
+2014,2772,Pfeffingen,6,3700,1354
+2014,2774,Schönenbuch,,,
+2014,2775,Therwil,4,4500,1550
+2014,2781,Blauen,,,
+2014,2782,Brislach,3,1500,425
+2014,2784,Dittingen,( ),( ),( )
+2014,2785,Duggingen,3,1400,678
+2014,2786,Grellingen,4,2400,440
+2014,2787,Laufen,5,2800,591
+2014,2788,Liesberg,4,2100,252
+2014,2789,Nenzlingen,,,
+2014,2790,Roggenburg,,,
+2014,2791,Röschenz,( ),( ),( )
+2014,2792,Wahlen,( ),( ),( )
+2014,2821,Arisdorf,( ),( ),( )
+2014,2822,Augst,( ),( ),( )
+2014,2823,Bubendorf,4,1700,898
+2014,2824,Frenkendorf,8,3200,863
+2014,2825,Füllinsdorf,( ),( ),( )
+2014,2826,Giebenach,( ),( ),( )
+2014,2827,Hersberg,,,
+2014,2828,Lausen,( ),( ),( )
+2014,2829,Liestal,7,4200,970
+2014,2830,Lupsingen,10,6300,642
+2014,2831,Pratteln,6,1300,637
+2014,2832,Ramlinsburg,,,
+2014,2833,Seltisberg,( ),( ),( )
+2014,2841,Anwil,( ),( ),( )
+2014,2842,Böckten,( ),( ),( )
+2014,2843,Buckten,,,
+2014,2844,Buus,9,2300,445
+2014,2845,Diepflingen,3,1700,330
+2014,2846,Gelterkinden,6,4100,664
+2014,2847,Häfelfingen,( ),( ),( )
+2014,2848,Hemmiken,3,1400,293
+2014,2849,Itingen,4,1600,627
+2014,2850,Känerkinden,( ),( ),( )
+2014,2852,Läufelfingen,( ),( ),( )
+2014,2853,Maisprach,,,
+2014,2854,Nusshof,( ),( ),( )
+2014,2855,Oltingen,( ),( ),( )
+2014,2856,Ormalingen,( ),( ),( )
+2014,2858,Rothenfluh,( ),( ),( )
+2014,2859,Rümlingen,( ),( ),( )
+2014,2860,Rünenberg,,,
+2014,2861,Sissach,28,7100,756
+2014,2862,Tecknau,,,
+2014,2863,Tenniken,( ),( ),( )
+2014,2864,Thürnen,( ),( ),( )
+2014,2865,Wenslingen,( ),( ),( )
+2014,2866,Wintersingen,3,2700,415
+2014,2867,Wittinsburg,( ),( ),( )
+2014,2881,Arboldswil,( ),( ),( )
+2014,2882,Bennwil,( ),( ),( )
+2014,2883,Bretzwil,( ),( ),( )
+2014,2884,Diegten,( ),( ),( )
+2014,2885,Eptingen,,,
+2014,2886,Hölstein,5,3800,644
+2014,2887,Lampenberg,,,
+2014,2888,Langenbruck,( ),( ),( )
+2014,2889,Lauwil,,,
+2014,2890,Liedertswil,,,
+2014,2891,Niederdorf,,,
+2014,2893,Reigoldswil,3,2200,428
+2014,2894,Titterten,( ),( ),( )
+2014,2895,Waldenburg,,,
+2015,2762,Allschwil,10,4400,1257
+2015,2763,Arlesheim,3,1800,1298
+2015,2765,Binningen,46,10700,1966
+2015,2766,Birsfelden,( ),( ),( )
+2015,2767,Bottmingen,6,1300,1998
+2015,2768,Ettingen,4,3100,1360
+2015,2769,Münchenstein,( ),( ),( )
+2015,2770,Muttenz,15,5400,1212
+2015,2772,Pfeffingen,5,2000,1100
+2015,2774,Schönenbuch,( ),( ),( )
+2015,2775,Therwil,,,
+2015,2781,Blauen,3,2100,417
+2015,2782,Brislach,8,3500,396
+2015,2784,Dittingen,,,
+2015,2785,Duggingen,( ),( ),( )
+2015,2786,Grellingen,,,
+2015,2787,Laufen,6,3900,580
+2015,2788,Liesberg,( ),( ),( )
+2015,2789,Nenzlingen,( ),( ),( )
+2015,2790,Roggenburg,,,
+2015,2791,Röschenz,4,2700,477
+2015,2792,Wahlen,( ),( ),( )
+2015,2821,Arisdorf,( ),( ),( )
+2015,2822,Augst,,,
+2015,2823,Bubendorf,8,3700,803
+2015,2824,Frenkendorf,3,1800,1100
+2015,2825,Füllinsdorf,( ),( ),( )
+2015,2826,Giebenach,( ),( ),( )
+2015,2827,Hersberg,,,
+2015,2828,Lausen,( ),( ),( )
+2015,2829,Liestal,6,5900,1064
+2015,2830,Lupsingen,7,4100,690
+2015,2831,Pratteln,5,1800,962
+2015,2832,Ramlinsburg,4,3200,602
+2015,2833,Seltisberg,( ),( ),( )
+2015,2841,Anwil,( ),( ),( )
+2015,2842,Böckten,4,4200,646
+2015,2843,Buckten,,,
+2015,2844,Buus,( ),( ),( )
+2015,2845,Diepflingen,7,3500,407
+2015,2846,Gelterkinden,5,2600,687
+2015,2847,Häfelfingen,,,
+2015,2848,Hemmiken,,,
+2015,2849,Itingen,( ),( ),( )
+2015,2850,Känerkinden,( ),( ),( )
+2015,2852,Läufelfingen,( ),( ),( )
+2015,2853,Maisprach,( ),( ),( )
+2015,2854,Nusshof,( ),( ),( )
+2015,2855,Oltingen,( ),( ),( )
+2015,2856,Ormalingen,( ),( ),( )
+2015,2858,Rothenfluh,( ),( ),( )
+2015,2859,Rümlingen,( ),( ),( )
+2015,2860,Rünenberg,,,
+2015,2861,Sissach,3,2000,768
+2015,2862,Tecknau,( ),( ),( )
+2015,2863,Tenniken,( ),( ),( )
+2015,2864,Thürnen,3,500,652
+2015,2865,Wenslingen,,,
+2015,2866,Wintersingen,,,
+2015,2867,Wittinsburg,,,
+2015,2881,Arboldswil,( ),( ),( )
+2015,2882,Bennwil,( ),( ),( )
+2015,2883,Bretzwil,( ),( ),( )
+2015,2884,Diegten,( ),( ),( )
+2015,2885,Eptingen,,,
+2015,2886,Hölstein,( ),( ),( )
+2015,2887,Lampenberg,( ),( ),( )
+2015,2888,Langenbruck,,,
+2015,2889,Lauwil,,,
+2015,2890,Liedertswil,,,
+2015,2891,Niederdorf,( ),( ),( )
+2015,2893,Reigoldswil,3,1500,485
+2015,2894,Titterten,,,
+2015,2895,Waldenburg,,,
+2016,2762,Allschwil,5,3400,1635
+2016,2763,Arlesheim,5,5400,1578
+2016,2765,Binningen,23,9000,2003
+2016,2766,Birsfelden,3,400,1537
+2016,2767,Bottmingen,6,3500,1894
+2016,2768,Ettingen,12,4400,1294
+2016,2769,Münchenstein,11,7500,1178
+2016,2770,Muttenz,5,5200,1476
+2016,2772,Pfeffingen,6,4000,1229
+2016,2774,Schönenbuch,( ),( ),( )
+2016,2775,Therwil,6,2200,1412
+2016,2781,Blauen,,,
+2016,2782,Brislach,5,2300,400
+2016,2784,Dittingen,,,
+2016,2785,Duggingen,3,1200,666
+2016,2786,Grellingen,4,1900,557
+2016,2787,Laufen,8,4300,646
+2016,2788,Liesberg,( ),( ),( )
+2016,2789,Nenzlingen,( ),( ),( )
+2016,2790,Roggenburg,,,
+2016,2791,Röschenz,( ),( ),( )
+2016,2792,Wahlen,8,3300,473
+2016,2821,Arisdorf,,,
+2016,2822,Augst,( ),( ),( )
+2016,2823,Bubendorf,3,2200,952
+2016,2824,Frenkendorf,7,3800,1016
+2016,2825,Füllinsdorf,6,1400,993
+2016,2826,Giebenach,( ),( ),( )
+2016,2827,Hersberg,( ),( ),( )
+2016,2828,Lausen,7,3900,791
+2016,2829,Liestal,11,4100,1062
+2016,2830,Lupsingen,( ),( ),( )
+2016,2831,Pratteln,9,5500,883
+2016,2832,Ramlinsburg,( ),( ),( )
+2016,2833,Seltisberg,3,1400,857
+2016,2841,Anwil,( ),( ),( )
+2016,2842,Böckten,( ),( ),( )
+2016,2843,Buckten,3,900,205
+2016,2844,Buus,7,3000,432
+2016,2845,Diepflingen,4,1300,490
+2016,2846,Gelterkinden,11,5400,737
+2016,2847,Häfelfingen,,,
+2016,2848,Hemmiken,( ),( ),( )
+2016,2849,Itingen,( ),( ),( )
+2016,2850,Känerkinden,( ),( ),( )
+2016,2852,Läufelfingen,,,
+2016,2853,Maisprach,( ),( ),( )
+2016,2854,Nusshof,( ),( ),( )
+2016,2855,Oltingen,( ),( ),( )
+2016,2856,Ormalingen,3,2800,476
+2016,2858,Rothenfluh,,,
+2016,2859,Rümlingen,( ),( ),( )
+2016,2860,Rünenberg,,,
+2016,2861,Sissach,4,2300,885
+2016,2862,Tecknau,,,
+2016,2863,Tenniken,3,1200,299
+2016,2864,Thürnen,6,700,652
+2016,2865,Wenslingen,4,3600,426
+2016,2866,Wintersingen,,,
+2016,2867,Wittinsburg,( ),( ),( )
+2016,2881,Arboldswil,( ),( ),( )
+2016,2882,Bennwil,( ),( ),( )
+2016,2883,Bretzwil,,,
+2016,2884,Diegten,( ),( ),( )
+2016,2885,Eptingen,,,
+2016,2886,Hölstein,4,4600,441
+2016,2887,Lampenberg,( ),( ),( )
+2016,2888,Langenbruck,,,
+2016,2889,Lauwil,,,
+2016,2890,Liedertswil,,,
+2016,2891,Niederdorf,( ),( ),( )
+2016,2893,Reigoldswil,( ),( ),( )
+2016,2894,Titterten,4,2100,311
+2016,2895,Waldenburg,,,
+2017,2762,Allschwil,12,2300,1843
+2017,2763,Arlesheim,11,11300,1776
+2017,2765,Binningen,21,11700,2251
+2017,2766,Birsfelden,( ),( ),( )
+2017,2767,Bottmingen,4,2000,2082
+2017,2768,Ettingen,14,6900,1323
+2017,2769,Münchenstein,( ),( ),( )
+2017,2770,Muttenz,8,5600,1794
+2017,2772,Pfeffingen,( ),( ),( )
+2017,2774,Schönenbuch,,,
+2017,2775,Therwil,7,9200,1440
+2017,2781,Blauen,3,1700,397
+2017,2782,Brislach,5,2800,510
+2017,2784,Dittingen,( ),( ),( )
+2017,2785,Duggingen,( ),( ),( )
+2017,2786,Grellingen,4,2200,544
+2017,2787,Laufen,4,1400,561
+2017,2788,Liesberg,3,1800,172
+2017,2789,Nenzlingen,3,1700,539
+2017,2790,Roggenburg,,,
+2017,2791,Röschenz,,,
+2017,2792,Wahlen,4,6200,457
+2017,2821,Arisdorf,,,
+2017,2822,Augst,,,
+2017,2823,Bubendorf,( ),( ),( )
+2017,2824,Frenkendorf,,,
+2017,2825,Füllinsdorf,3,2600,834
+2017,2826,Giebenach,( ),( ),( )
+2017,2827,Hersberg,3,1200,655
+2017,2828,Lausen,9,4400,789
+2017,2829,Liestal,24,7000,892
+2017,2830,Lupsingen,6,4300,822
+2017,2831,Pratteln,8,4400,1160
+2017,2832,Ramlinsburg,( ),( ),( )
+2017,2833,Seltisberg,6,3400,936
+2017,2841,Anwil,,,
+2017,2842,Böckten,,,
+2017,2843,Buckten,3,1400,204
+2017,2844,Buus,4,2300,484
+2017,2845,Diepflingen,3,1500,600
+2017,2846,Gelterkinden,5,5100,706
+2017,2847,Häfelfingen,( ),( ),( )
+2017,2848,Hemmiken,,,
+2017,2849,Itingen,( ),( ),( )
+2017,2850,Känerkinden,( ),( ),( )
+2017,2852,Läufelfingen,3,2300,308
+2017,2853,Maisprach,3,1300,509
+2017,2854,Nusshof,,,
+2017,2855,Oltingen,( ),( ),( )
+2017,2856,Ormalingen,( ),( ),( )
+2017,2858,Rothenfluh,4,2700,335
+2017,2859,Rümlingen,6,3700,287
+2017,2860,Rünenberg,( ),( ),( )
+2017,2861,Sissach,6,5300,921
+2017,2862,Tecknau,,,
+2017,2863,Tenniken,,,
+2017,2864,Thürnen,,,
+2017,2865,Wenslingen,,,
+2017,2866,Wintersingen,( ),( ),( )
+2017,2867,Wittinsburg,( ),( ),( )
+2017,2881,Arboldswil,( ),( ),( )
+2017,2882,Bennwil,,,
+2017,2883,Bretzwil,( ),( ),( )
+2017,2884,Diegten,( ),( ),( )
+2017,2885,Eptingen,,,
+2017,2886,Hölstein,4,5000,500
+2017,2887,Lampenberg,3,2200,409
+2017,2888,Langenbruck,( ),( ),( )
+2017,2889,Lauwil,,,
+2017,2890,Liedertswil,( ),( ),( )
+2017,2891,Niederdorf,( ),( ),( )
+2017,2893,Reigoldswil,( ),( ),( )
+2017,2894,Titterten,4,3800,319
+2017,2895,Waldenburg,,,
+2018,2762,Allschwil,7,3000,1911
+2018,2763,Arlesheim,5,2100,1784
+2018,2765,Binningen,22,7800,2084
+2018,2766,Birsfelden,( ),( ),( )
+2018,2767,Bottmingen,10,6800,2078
+2018,2768,Ettingen,8,1700,1283
+2018,2769,Münchenstein,3,2500,1560
+2018,2770,Muttenz,( ),( ),( )
+2018,2772,Pfeffingen,7,2300,1116
+2018,2774,Schönenbuch,,,
+2018,2775,Therwil,( ),( ),( )
+2018,2781,Blauen,4,3200,436
+2018,2782,Brislach,4,1900,482
+2018,2784,Dittingen,5,2500,301
+2018,2785,Duggingen,10,3400,649
+2018,2786,Grellingen,( ),( ),( )
+2018,2787,Laufen,5,2900,594
+2018,2788,Liesberg,3,2900,294
+2018,2789,Nenzlingen,3,2900,416
+2018,2790,Roggenburg,,,
+2018,2791,Röschenz,6,3100,531
+2018,2792,Wahlen,,,
+2018,2821,Arisdorf,3,2100,556
+2018,2822,Augst,,,
+2018,2823,Bubendorf,10,5200,1011
+2018,2824,Frenkendorf,8,6400,891
+2018,2825,Füllinsdorf,7,3900,955
+2018,2826,Giebenach,,,
+2018,2827,Hersberg,( ),( ),( )
+2018,2828,Lausen,( ),( ),( )
+2018,2829,Liestal,5,6000,1075
+2018,2830,Lupsingen,( ),( ),( )
+2018,2831,Pratteln,8,3200,1114
+2018,2832,Ramlinsburg,( ),( ),( )
+2018,2833,Seltisberg,( ),( ),( )
+2018,2841,Anwil,( ),( ),( )
+2018,2842,Böckten,,,
+2018,2843,Buckten,( ),( ),( )
+2018,2844,Buus,( ),( ),( )
+2018,2845,Diepflingen,3,1600,550
+2018,2846,Gelterkinden,9,3900,854
+2018,2847,Häfelfingen,,,
+2018,2848,Hemmiken,,,
+2018,2849,Itingen,5,3000,701
+2018,2850,Känerkinden,( ),( ),( )
+2018,2852,Läufelfingen,,,
+2018,2853,Maisprach,,,
+2018,2854,Nusshof,,,
+2018,2855,Oltingen,,,
+2018,2856,Ormalingen,9,3700,546
+2018,2858,Rothenfluh,( ),( ),( )
+2018,2859,Rümlingen,( ),( ),( )
+2018,2860,Rünenberg,,,
+2018,2861,Sissach,6,5000,1032
+2018,2862,Tecknau,( ),( ),( )
+2018,2863,Tenniken,( ),( ),( )
+2018,2864,Thürnen,,,
+2018,2865,Wenslingen,,,
+2018,2866,Wintersingen,,,
+2018,2867,Wittinsburg,( ),( ),( )
+2018,2881,Arboldswil,( ),( ),( )
+2018,2882,Bennwil,,,
+2018,2883,Bretzwil,( ),( ),( )
+2018,2884,Diegten,,,
+2018,2885,Eptingen,,,
+2018,2886,Hölstein,3,2900,360
+2018,2887,Lampenberg,3,2200,381
+2018,2888,Langenbruck,( ),( ),( )
+2018,2889,Lauwil,,,
+2018,2890,Liedertswil,,,
+2018,2891,Niederdorf,,,
+2018,2893,Reigoldswil,( ),( ),( )
+2018,2894,Titterten,,,
+2018,2895,Waldenburg,( ),( ),( )
+2019,2762,Allschwil,11,4600,1901
+2019,2763,Arlesheim,11,5800,1848
+2019,2765,Binningen,27,15600,2337
+2019,2766,Birsfelden,( ),( ),( )
+2019,2767,Bottmingen,10,4700,2228
+2019,2768,Ettingen,12,2600,1403
+2019,2769,Münchenstein,6,3800,1262
+2019,2770,Muttenz,8,3800,1590
+2019,2772,Pfeffingen,8,2600,1364
+2019,2774,Schönenbuch,,,
+2019,2775,Therwil,5,4200,1445
+2019,2781,Blauen,3,1700,466
+2019,2782,Brislach,4,1900,416
+2019,2784,Dittingen,,,
+2019,2785,Duggingen,5,2300,534
+2019,2786,Grellingen,( ),( ),( )
+2019,2787,Laufen,6,3300,838
+2019,2788,Liesberg,( ),( ),( )
+2019,2789,Nenzlingen,( ),( ),( )
+2019,2790,Roggenburg,,,
+2019,2791,Röschenz,3,3000,648
+2019,2792,Wahlen,( ),( ),( )
+2019,2821,Arisdorf,3,3600,769
+2019,2822,Augst,( ),( ),( )
+2019,2823,Bubendorf,3,1100,1115
+2019,2824,Frenkendorf,( ),( ),( )
+2019,2825,Füllinsdorf,7,4700,1178
+2019,2826,Giebenach,( ),( ),( )
+2019,2827,Hersberg,4,1100,580
+2019,2828,Lausen,( ),( ),( )
+2019,2829,Liestal,3,1900,967
+2019,2830,Lupsingen,4,2300,687
+2019,2831,Pratteln,6,5200,1343
+2019,2832,Ramlinsburg,,,
+2019,2833,Seltisberg,,,
+2019,2841,Anwil,( ),( ),( )
+2019,2842,Böckten,,,
+2019,2843,Buckten,( ),( ),( )
+2019,2844,Buus,4,2200,430
+2019,2845,Diepflingen,( ),( ),( )
+2019,2846,Gelterkinden,6,1300,712
+2019,2847,Häfelfingen,,,
+2019,2848,Hemmiken,,,
+2019,2849,Itingen,3,2500,675
+2019,2850,Känerkinden,( ),( ),( )
+2019,2852,Läufelfingen,4,3000,274
+2019,2853,Maisprach,( ),( ),( )
+2019,2854,Nusshof,( ),( ),( )
+2019,2855,Oltingen,( ),( ),( )
+2019,2856,Ormalingen,( ),( ),( )
+2019,2858,Rothenfluh,( ),( ),( )
+2019,2859,Rümlingen,,,
+2019,2860,Rünenberg,( ),( ),( )
+2019,2861,Sissach,( ),( ),( )
+2019,2862,Tecknau,,,
+2019,2863,Tenniken,,,
+2019,2864,Thürnen,,,
+2019,2865,Wenslingen,,,
+2019,2866,Wintersingen,,,
+2019,2867,Wittinsburg,,,
+2019,2881,Arboldswil,4,3300,517
+2019,2882,Bennwil,( ),( ),( )
+2019,2883,Bretzwil,,,
+2019,2884,Diegten,,,
+2019,2885,Eptingen,,,
+2019,2886,Hölstein,3,1500,554
+2019,2887,Lampenberg,( ),( ),( )
+2019,2888,Langenbruck,,,
+2019,2889,Lauwil,,,
+2019,2890,Liedertswil,,,
+2019,2891,Niederdorf,,,
+2019,2893,Reigoldswil,11,3200,360
+2019,2894,Titterten,( ),( ),( )
+2019,2895,Waldenburg,( ),( ),( )
+2020,2762,Allschwil,5,1100,1875
+2020,2763,Arlesheim,7,3400,2011
+2020,2765,Binningen,15,8900,2194
+2020,2766,Birsfelden,,,
+2020,2767,Bottmingen,10,2700,2402
+2020,2768,Ettingen,4,2600,1473
+2020,2769,Münchenstein,11,8500,1277
+2020,2770,Muttenz,7,6100,1531
+2020,2772,Pfeffingen,( ),( ),( )
+2020,2774,Schönenbuch,( ),( ),( )
+2020,2775,Therwil,4,2600,1715
+2020,2781,Blauen,5,2100,402
+2020,2782,Brislach,( ),( ),( )
+2020,2784,Dittingen,( ),( ),( )
+2020,2785,Duggingen,10,9900,742
+2020,2786,Grellingen,( ),( ),( )
+2020,2787,Laufen,4,3100,703
+2020,2788,Liesberg,3,3100,409
+2020,2789,Nenzlingen,3,1500,448
+2020,2790,Roggenburg,,,
+2020,2791,Röschenz,( ),( ),( )
+2020,2792,Wahlen,( ),( ),( )
+2020,2821,Arisdorf,( ),( ),( )
+2020,2822,Augst,( ),( ),( )
+2020,2823,Bubendorf,3,1600,804
+2020,2824,Frenkendorf,3,3900,995
+2020,2825,Füllinsdorf,( ),( ),( )
+2020,2826,Giebenach,,,
+2020,2827,Hersberg,,,
+2020,2828,Lausen,,,
+2020,2829,Liestal,8,8200,1293
+2020,2830,Lupsingen,8,5200,798
+2020,2831,Pratteln,4,2100,1391
+2020,2832,Ramlinsburg,,,
+2020,2833,Seltisberg,( ),( ),( )
+2020,2841,Anwil,,,
+2020,2842,Böckten,( ),( ),( )
+2020,2843,Buckten,,,
+2020,2844,Buus,6,3900,443
+2020,2845,Diepflingen,,,
+2020,2846,Gelterkinden,( ),( ),( )
+2020,2847,Häfelfingen,,,
+2020,2848,Hemmiken,,,
+2020,2849,Itingen,16,5800,718
+2020,2850,Känerkinden,( ),( ),( )
+2020,2852,Läufelfingen,( ),( ),( )
+2020,2853,Maisprach,( ),( ),( )
+2020,2854,Nusshof,( ),( ),( )
+2020,2855,Oltingen,,,
+2020,2856,Ormalingen,,,
+2020,2858,Rothenfluh,( ),( ),( )
+2020,2859,Rümlingen,,,
+2020,2860,Rünenberg,( ),( ),( )
+2020,2861,Sissach,10,5400,1109
+2020,2862,Tecknau,,,
+2020,2863,Tenniken,,,
+2020,2864,Thürnen,,,
+2020,2865,Wenslingen,,,
+2020,2866,Wintersingen,,,
+2020,2867,Wittinsburg,3,2100,414
+2020,2881,Arboldswil,3,2200,598
+2020,2882,Bennwil,( ),( ),( )
+2020,2883,Bretzwil,( ),( ),( )
+2020,2884,Diegten,8,4200,507
+2020,2885,Eptingen,,,
+2020,2886,Hölstein,( ),( ),( )
+2020,2887,Lampenberg,3,3200,434
+2020,2888,Langenbruck,,,
+2020,2889,Lauwil,( ),( ),( )
+2020,2890,Liedertswil,,,
+2020,2891,Niederdorf,( ),( ),( )
+2020,2893,Reigoldswil,7,5400,350
+2020,2894,Titterten,3,3000,308
+2020,2895,Waldenburg,,,
+2021,2762,Allschwil,4,2200,1602
+2021,2763,Arlesheim,4,1700,1872
+2021,2765,Binningen,24,8800,2400
+2021,2766,Birsfelden,,,
+2021,2767,Bottmingen,8,5800,2502
+2021,2768,Ettingen,,,
+2021,2769,Münchenstein,5,2000,1347
+2021,2770,Muttenz,5,3500,1921
+2021,2772,Pfeffingen,5,5800,1613
+2021,2774,Schönenbuch,( ),( ),( )
+2021,2775,Therwil,17,7500,1909
+2021,2781,Blauen,( ),( ),( )
+2021,2782,Brislach,11,4300,516
+2021,2784,Dittingen,3,1100,302
+2021,2785,Duggingen,( ),( ),( )
+2021,2786,Grellingen,( ),( ),( )
+2021,2787,Laufen,5,4200,702
+2021,2788,Liesberg,( ),( ),( )
+2021,2789,Nenzlingen,( ),( ),( )
+2021,2790,Roggenburg,,,
+2021,2791,Röschenz,3,1500,675
+2021,2792,Wahlen,4,3100,539
+2021,2821,Arisdorf,( ),( ),( )
+2021,2822,Augst,( ),( ),( )
+2021,2823,Bubendorf,,,
+2021,2824,Frenkendorf,( ),( ),( )
+2021,2825,Füllinsdorf,( ),( ),( )
+2021,2826,Giebenach,7,3800,754
+2021,2827,Hersberg,( ),( ),( )
+2021,2828,Lausen,( ),( ),( )
+2021,2829,Liestal,6,8200,1357
+2021,2830,Lupsingen,4,3800,797
+2021,2831,Pratteln,4,2600,1205
+2021,2832,Ramlinsburg,( ),( ),( )
+2021,2833,Seltisberg,4,3200,1002
+2021,2841,Anwil,,,
+2021,2842,Böckten,( ),( ),( )
+2021,2843,Buckten,( ),( ),( )
+2021,2844,Buus,5,2600,488
+2021,2845,Diepflingen,( ),( ),( )
+2021,2846,Gelterkinden,9,4700,1095
+2021,2847,Häfelfingen,( ),( ),( )
+2021,2848,Hemmiken,( ),( ),( )
+2021,2849,Itingen,( ),( ),( )
+2021,2850,Känerkinden,3,2500,486
+2021,2852,Läufelfingen,( ),( ),( )
+2021,2853,Maisprach,,,
+2021,2854,Nusshof,,,
+2021,2855,Oltingen,( ),( ),( )
+2021,2856,Ormalingen,4,3600,681
+2021,2858,Rothenfluh,( ),( ),( )
+2021,2859,Rümlingen,,,
+2021,2860,Rünenberg,4,3200,617
+2021,2861,Sissach,8,7000,1006
+2021,2862,Tecknau,,,
+2021,2863,Tenniken,,,
+2021,2864,Thürnen,( ),( ),( )
+2021,2865,Wenslingen,,,
+2021,2866,Wintersingen,,,
+2021,2867,Wittinsburg,4,2300,364
+2021,2881,Arboldswil,5,2900,506
+2021,2882,Bennwil,6,3500,410
+2021,2883,Bretzwil,( ),( ),( )
+2021,2884,Diegten,4,1800,520
+2021,2885,Eptingen,( ),( ),( )
+2021,2886,Hölstein,4,2600,547
+2021,2887,Lampenberg,6,5600,468
+2021,2888,Langenbruck,6,7200,260
+2021,2889,Lauwil,( ),( ),( )
+2021,2890,Liedertswil,( ),( ),( )
+2021,2891,Niederdorf,3,1700,332
+2021,2893,Reigoldswil,8,5200,448
+2021,2894,Titterten,4,5200,283
+2021,2895,Waldenburg,( ),( ),( )
+2022,2762,Allschwil,( ),( ),( )
+2022,2763,Arlesheim,( ),( ),( )
+2022,2765,Binningen,10,3400,2354
+2022,2766,Birsfelden,( ),( ),( )
+2022,2767,Bottmingen,4,2100,2437
+2022,2768,Ettingen,4,1600,1648
+2022,2769,Münchenstein,15,8200,1684
+2022,2770,Muttenz,12,5900,1854
+2022,2772,Pfeffingen,3,800,1452
+2022,2774,Schönenbuch,,,
+2022,2775,Therwil,4,2900,2308
+2022,2781,Blauen,4,4500,456
+2022,2782,Brislach,3,2100,551
+2022,2784,Dittingen,3,1200,396
+2022,2785,Duggingen,3,2100,833
+2022,2786,Grellingen,,,
+2022,2787,Laufen,6,7300,737
+2022,2788,Liesberg,4,2400,422
+2022,2789,Nenzlingen,( ),( ),( )
+2022,2790,Roggenburg,( ),( ),( )
+2022,2791,Röschenz,( ),( ),( )
+2022,2792,Wahlen,( ),( ),( )
+2022,2821,Arisdorf,( ),( ),( )
+2022,2822,Augst,,,
+2022,2823,Bubendorf,4,800,1002
+2022,2824,Frenkendorf,4,1600,1159
+2022,2825,Füllinsdorf,3,1400,1457
+2022,2826,Giebenach,3,1400,790
+2022,2827,Hersberg,,,
+2022,2828,Lausen,( ),( ),( )
+2022,2829,Liestal,7,2100,1601
+2022,2830,Lupsingen,,,
+2022,2831,Pratteln,( ),( ),( )
+2022,2832,Ramlinsburg,( ),( ),( )
+2022,2833,Seltisberg,( ),( ),( )
+2022,2841,Anwil,4,2600,390
+2022,2842,Böckten,( ),( ),( )
+2022,2843,Buckten,( ),( ),( )
+2022,2844,Buus,( ),( ),( )
+2022,2845,Diepflingen,4,2000,326
+2022,2846,Gelterkinden,5,900,1240
+2022,2847,Häfelfingen,( ),( ),( )
+2022,2848,Hemmiken,( ),( ),( )
+2022,2849,Itingen,( ),( ),( )
+2022,2850,Känerkinden,,,
+2022,2852,Läufelfingen,( ),( ),( )
+2022,2853,Maisprach,( ),( ),( )
+2022,2854,Nusshof,,,
+2022,2855,Oltingen,,,
+2022,2856,Ormalingen,( ),( ),( )
+2022,2858,Rothenfluh,,,
+2022,2859,Rümlingen,,,
+2022,2860,Rünenberg,( ),( ),( )
+2022,2861,Sissach,4,1900,1245
+2022,2862,Tecknau,( ),( ),( )
+2022,2863,Tenniken,( ),( ),( )
+2022,2864,Thürnen,,,
+2022,2865,Wenslingen,( ),( ),( )
+2022,2866,Wintersingen,,,
+2022,2867,Wittinsburg,,,
+2022,2881,Arboldswil,,,
+2022,2882,Bennwil,3,1400,437
+2022,2883,Bretzwil,( ),( ),( )
+2022,2884,Diegten,( ),( ),( )
+2022,2885,Eptingen,( ),( ),( )
+2022,2886,Hölstein,3,1000,506
+2022,2887,Lampenberg,( ),( ),( )
+2022,2888,Langenbruck,( ),( ),( )
+2022,2889,Lauwil,4,2300,324
+2022,2890,Liedertswil,3,2600,197
+2022,2891,Niederdorf,( ),( ),( )
+2022,2893,Reigoldswil,11,7200,530
+2022,2894,Titterten,( ),( ),( )
+2022,2895,Waldenburg,3,2300,389
+2023,2762,Allschwil,( ),( ),( )
+2023,2763,Arlesheim,( ),( ),( )
+2023,2765,Binningen,15,10200,2297
+2023,2766,Birsfelden,,,
+2023,2767,Bottmingen,7,3900,2481
+2023,2768,Ettingen,3,500,1423
+2023,2769,Münchenstein,( ),( ),( )
+2023,2770,Muttenz,7,3900,1986
+2023,2772,Pfeffingen,6,4300,1887
+2023,2774,Schönenbuch,( ),( ),( )
+2023,2775,Therwil,4,2000,1974
+2023,2781,Blauen,( ),( ),( )
+2023,2782,Brislach,4,1400,637
+2023,2784,Dittingen,( ),( ),( )
+2023,2785,Duggingen,,,
+2023,2786,Grellingen,( ),( ),( )
+2023,2787,Laufen,( ),( ),( )
+2023,2788,Liesberg,4,2200,449
+2023,2789,Nenzlingen,,,
+2023,2790,Roggenburg,,,
+2023,2791,Röschenz,,,
+2023,2792,Wahlen,,,
+2023,2821,Arisdorf,( ),( ),( )
+2023,2822,Augst,,,
+2023,2823,Bubendorf,6,4300,982
+2023,2824,Frenkendorf,( ),( ),( )
+2023,2825,Füllinsdorf,( ),( ),( )
+2023,2826,Giebenach,( ),( ),( )
+2023,2827,Hersberg,,,
+2023,2828,Lausen,( ),( ),( )
+2023,2829,Liestal,( ),( ),( )
+2023,2830,Lupsingen,,,
+2023,2831,Pratteln,( ),( ),( )
+2023,2832,Ramlinsburg,( ),( ),( )
+2023,2833,Seltisberg,( ),( ),( )
+2023,2841,Anwil,,,
+2023,2842,Böckten,( ),( ),( )
+2023,2843,Buckten,,,
+2023,2844,Buus,,,
+2023,2845,Diepflingen,( ),( ),( )
+2023,2846,Gelterkinden,( ),( ),( )
+2023,2847,Häfelfingen,( ),( ),( )
+2023,2848,Hemmiken,( ),( ),( )
+2023,2849,Itingen,8,6400,769
+2023,2850,Känerkinden,( ),( ),( )
+2023,2852,Läufelfingen,( ),( ),( )
+2023,2853,Maisprach,( ),( ),( )
+2023,2854,Nusshof,,,
+2023,2855,Oltingen,,,
+2023,2856,Ormalingen,,,
+2023,2858,Rothenfluh,( ),( ),( )
+2023,2859,Rümlingen,4,2000,286
+2023,2860,Rünenberg,( ),( ),( )
+2023,2861,Sissach,3,2800,1248
+2023,2862,Tecknau,,,
+2023,2863,Tenniken,( ),( ),( )
+2023,2864,Thürnen,,,
+2023,2865,Wenslingen,,,
+2023,2866,Wintersingen,,,
+2023,2867,Wittinsburg,( ),( ),( )
+2023,2881,Arboldswil,,,
+2023,2882,Bennwil,,,
+2023,2883,Bretzwil,,,
+2023,2884,Diegten,,,
+2023,2885,Eptingen,( ),( ),( )
+2023,2886,Hölstein,( ),( ),( )
+2023,2887,Lampenberg,( ),( ),( )
+2023,2888,Langenbruck,,,
+2023,2889,Lauwil,( ),( ),( )
+2023,2890,Liedertswil,,,
+2023,2891,Niederdorf,( ),( ),( )
+2023,2893,Reigoldswil,7,3500,568
+2023,2894,Titterten,,,
+2023,2895,Waldenburg,,,
+2024,2762,Allschwil,,,
+2024,2763,Arlesheim,4,3500,2708
+2024,2765,Binningen,15,3600,2584
+2024,2766,Birsfelden,,,
+2024,2767,Bottmingen,5,4200,3104
+2024,2768,Ettingen,3,2700,2084
+2024,2769,Münchenstein,16,4800,1995
+2024,2770,Muttenz,4,3400,2580
+2024,2772,Pfeffingen,3,1400,1661
+2024,2774,Schönenbuch,( ),( ),( )
+2024,2775,Therwil,5,2700,2122
+2024,2781,Blauen,( ),( ),( )
+2024,2782,Brislach,( ),( ),( )
+2024,2784,Dittingen,( ),( ),( )
+2024,2785,Duggingen,8,2700,858
+2024,2786,Grellingen,,,
+2024,2787,Laufen,4,2000,1197
+2024,2788,Liesberg,,,
+2024,2789,Nenzlingen,,,
+2024,2790,Roggenburg,( ),( ),( )
+2024,2791,Röschenz,( ),( ),( )
+2024,2792,Wahlen,,,
+2024,2821,Arisdorf,( ),( ),( )
+2024,2822,Augst,,,
+2024,2823,Bubendorf,( ),( ),( )
+2024,2824,Frenkendorf,( ),( ),( )
+2024,2825,Füllinsdorf,( ),( ),( )
+2024,2826,Giebenach,,,
+2024,2827,Hersberg,,,
+2024,2828,Lausen,( ),( ),( )
+2024,2829,Liestal,4,3000,1318
+2024,2830,Lupsingen,4,1500,1015
+2024,2831,Pratteln,5,6400,1233
+2024,2832,Ramlinsburg,,,
+2024,2833,Seltisberg,,,
+2024,2841,Anwil,( ),( ),( )
+2024,2842,Böckten,,,
+2024,2843,Buckten,,,
+2024,2844,Buus,( ),( ),( )
+2024,2845,Diepflingen,( ),( ),( )
+2024,2846,Gelterkinden,4,5500,1334
+2024,2847,Häfelfingen,,,
+2024,2848,Hemmiken,,,
+2024,2849,Itingen,( ),( ),( )
+2024,2850,Känerkinden,,,
+2024,2852,Läufelfingen,( ),( ),( )
+2024,2853,Maisprach,( ),( ),( )
+2024,2854,Nusshof,,,
+2024,2855,Oltingen,,,
+2024,2856,Ormalingen,3,1800,976
+2024,2858,Rothenfluh,,,
+2024,2859,Rümlingen,( ),( ),( )
+2024,2860,Rünenberg,,,
+2024,2861,Sissach,3,2600,1244
+2024,2862,Tecknau,( ),( ),( )
+2024,2863,Tenniken,,,
+2024,2864,Thürnen,( ),( ),( )
+2024,2865,Wenslingen,,,
+2024,2866,Wintersingen,( ),( ),( )
+2024,2867,Wittinsburg,( ),( ),( )
+2024,2881,Arboldswil,,,
+2024,2882,Bennwil,,,
+2024,2883,Bretzwil,( ),( ),( )
+2024,2884,Diegten,( ),( ),( )
+2024,2885,Eptingen,,,
+2024,2886,Hölstein,8,2400,791
+2024,2887,Lampenberg,3,2600,512
+2024,2888,Langenbruck,,,
+2024,2889,Lauwil,,,
+2024,2890,Liedertswil,,,
+2024,2891,Niederdorf,( ),( ),( )
+2024,2893,Reigoldswil,( ),( ),( )
+2024,2894,Titterten,,,
+2024,2895,Waldenburg,,,

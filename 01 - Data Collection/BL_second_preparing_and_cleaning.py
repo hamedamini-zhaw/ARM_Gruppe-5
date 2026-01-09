@@ -1,8 +1,8 @@
 import pandas as pd
 
 # --- KONFIGURATION ---
-INPUT_FILE = '/Users/timponiewas/gwr/ARM_Master_Table.csv'
-OUTPUT_FILE = '/Users/timponiewas/gwr/ARM_Master_Table_final.csv'
+INPUT_FILE = '/workspaces/ARM_Gruppe-5/01 - Data Collection/ARM_Master_Table.csv'
+OUTPUT_FILE = '/workspaces/ARM_Gruppe-5/01 - Data Collection/ARM_Master_Table_final.csv'
 
 def calculate_branded_features(df):
     # --- 1. DURCHSCHNITTLICHE HAUSHALTSGRÖSSE (Branding ds10630) ---

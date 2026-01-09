@@ -1,6 +1,7 @@
 import requests
 import pandas as pd
 import time
+import os
 
 def fetch_dataset(dataset_id, where_clause=""):
     """Holt Daten von der data.bl.ch API mit Pagination."""
@@ -54,11 +55,26 @@ config = {
 
 # Deine Ziel-Gemeinden
 target_municipalities = [
-    "Anwil", "Arisdorf", "Arlesheim", "Augst", "Itingen", 
-    "Muttenz", "Waldenburg", "Sissach", "Liestal", "Prattln"
+    "Aesch (BL)", "Allschwil", "Anwil", "Arboldswil", "Arisdorf", "Arlesheim", "Augst",
+    "Bennwil", "Biel-Benken", "Binningen", "Birsfelden", "Blauen", "Böckten", "Bottmingen",
+    "Bretzwil", "Brislach", "Bubendorf", "Buckten", "Burg im Leimental", "Buus", "Diegten",
+    "Diepflingen", "Dittingen", "Duggingen", "Eptingen", "Ettingen", "Frenkendorf",
+    "Füllinsdorf", "Gelterkinden", "Giebenach", "Grellingen", "Häfelfingen", "Hemmiken",
+    "Hersberg", "Hölstein", "Itingen", "Känerkinden", "Kilchberg (BL)", "Lampenberg",
+    "Langenbruck", "Läufelfingen", "Laufen", "Lausen", "Lauwil", "Liedertswil", "Liesberg",
+    "Liestal", "Lupsingen", "Maisprach", "Münchenstein", "Muttenz", "Nenzlingen",
+    "Niederdorf", "Nusshof", "Oberdorf (BL)", "Oberwil (BL)", "Oltingen", "Ormalingen",
+    "Pfeffingen", "Pratteln", "Ramlinsburg", "Reigoldswil", "Reinach (BL)", "Rickenbach (BL)",
+    "Roggenburg", "Röschenz", "Rothenfluh", "Rümlingen", "Rünenberg", "Schönenbuch",
+    "Seltisberg", "Sissach", "Tecknau", "Tenniken", "Therwil", "Thürnen", "Titterten",
+    "Wahlen", "Waldenburg", "Wenslingen", "Wintersingen", "Wittinsburg"
 ]
 
 print(f"🚀 Starte Download-Prozess für {len(config)} Datensätze...")
+
+# Ziel-Ordner für Exporte (absoluter Pfad)
+export_dir = "/workspaces/ARM_Gruppe-5/01 - Data Collection/exporte"
+os.makedirs(export_dir, exist_ok=True)
 
 for ds_id, m_col in config.items():
     # 1. Basis-Filter für die Gemeinden erstellen
@@ -78,11 +94,11 @@ for ds_id, m_col in config.items():
     df = fetch_dataset(ds_id, where_query)
     
     if not df.empty:
-        # Als CSV speichern für das Master-Skript
-        filename = f"export_{ds_id}.csv"
+        # Als CSV speichern für das Master-Skript (im Export-Ordner)
+        filename = os.path.join(export_dir, f"export_{ds_id}.csv")
         df.to_csv(filename, index=False, encoding="utf-8")
         print(f"  ✅ ID {ds_id}: {len(df)} Zeilen gespeichert.")
     else:
         print(f"  ℹ️ ID {ds_id}: Keine Daten gefunden (Spaltennamen prüfen).")
 
-print("\n✨ Alle Exporte liegen im Ordner bereit.")
+print(f"\n✨ Alle Exporte liegen im Ordner bereit: {export_dir}")

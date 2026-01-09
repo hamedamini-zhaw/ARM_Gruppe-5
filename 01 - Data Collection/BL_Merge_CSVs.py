@@ -3,8 +3,8 @@ import os
 import re
 
 # --- 1. KONFIGURATION ---
-SOURCE_FOLDER = '/Users/timponiewas/gwr' 
-OUTPUT_FILE = '/Users/timponiewas/gwr/master_data.csv'
+SOURCE_FOLDER = '/workspaces/ARM_Gruppe-5/01 - Data Collection/exporte' 
+OUTPUT_FILE = '01 - Data Collection/master_data.csv'
 
 config_mapping = {
     "10060": ("gemeinde", "jahr"),
